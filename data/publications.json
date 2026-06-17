@@ -1,59 +1,157 @@
 [
   {
     "year": "2025",
-    "title": "Clinical and neuroradiological red flags in differential diagnosis of pituitary metastases and PitNETs (adenomas): a surgeon’s experience and systematic literature review",
-    "authors": "Ricciuti R, Paracino R, Mancini F, De Domenico P, Ricciuti V, Barbieri FR, Ottaviani MM, Pagano S, Marruzzo D",
-    "journal": "Neurologia i Neurochirurgia Polska",
-    "doi": "10.5603/pjnns.103406",
-    "tags": ["Pituitary", "Tumors"]
-  },
-  {
-    "year": "2025",
-    "title": "Deep brain stimulation in Parkinson’s disease: a comparison of accuracy and clinical outcomes of frame-based, frameless and frameless fiducial-less techniques",
-    "authors": "Ricciuti R, Ottaviani M, Mancini F, Marano M, Marruzzo D, Barbieri F, Paracino R, De Domenico P, Pagano S, Di Lazzaro V, Dobran M",
+    "title": "Body image appearance in Parkinson’s disease patients on device aided therapies",
+    "authors": "Proietti F, Pontani M, Pepe A, Magliozzi A, Toro S, Anzini G, Albergo G, Ricciuti R, Di Lazzaro V, Marano M",
     "journal": "Neurological Sciences",
-    "doi": "10.1007/s10072-025-08102-0",
-    "tags": ["DBS", "Parkinson"]
+    "doi": "10.1007/s10072-024-07753-9",
+    "tags": [
+      "Parkinson"
+    ],
+    "doiUrl": "https://doi.org/10.1007/s10072-024-07753-9",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Body+image+appearance+in+Parkinson%E2%80%99s+disease+patients+on+device+aided+therapies"
   },
   {
     "year": "2025",
-    "title": "Long-term infective complications of deep brain stimulation in Parkinson's disease: A 22-year follow-up",
+    "title": "Subthalamic beta power and gait in Parkinson’s disease during unsupervised remote monitoring",
+    "authors": "Marano M, Tinkhauser G, Anzini G, Leogrande G, Ricciuti R, Paniccia M, Belli A, Pierleoni P, Di Lazzaro V, Raggiunto S",
+    "journal": "Parkinsonism & Related Disorders",
+    "doi": "10.1016/j.parkreldis.2025.107903",
+    "tags": [
+      "Parkinson",
+      "DBS"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.parkreldis.2025.107903",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Subthalamic+beta+power+and+gait+in+Parkinson%E2%80%99s+disease+during+unsupervised+remote+monitoring"
+  },
+  {
+    "year": "2025",
+    "title": "Long-term infective complications of deep brain stimulation in Parkinson’s disease: A 22-year follow-up",
     "authors": "Ricciuti R, Ottaviani MM, Mancini F, Liverotti V, Marruzzo D, Marani M, Barbieri F, Paracino R, Pagano S, Di Lazzaro V, Dobran M",
     "journal": "Clinical Parkinsonism & Related Disorders",
     "doi": "",
-    "tags": ["DBS", "Parkinson"]
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ],
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Long-term+infective+complications+of+deep+brain+stimulation+in+Parkinson%E2%80%99s+disease:+A+22-year+follow-up"
+  },
+  {
+    "year": "2025",
+    "title": "Deep brain stimulation in Parkinson’s disease: accuracy and outcomes of frame-based, frameless and fiducial-less techniques",
+    "authors": "Ricciuti R, Ottaviani M, Mancini F, Marano M, Marruzzo D, Barbieri F, Paracino R, De Domenico P, Pagano S, Di Lazzaro V, Dobran M",
+    "journal": "Neurological Sciences",
+    "doi": "10.1007/s10072-025-08102-0",
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ],
+    "doiUrl": "https://doi.org/10.1007/s10072-025-08102-0",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+in+Parkinson%E2%80%99s+disease:+accuracy+and+outcomes+of+frame-based,+frameless+and+fiducial-less+techniques"
+  },
+  {
+    "year": "2025",
+    "title": "Setting benchmark for ischemic stroke treated endovascularly: a systematic review and meta-analysis",
+    "authors": "De Rubeis G, Fabiano S, Bertaccini L, Ricciuti R, Saba L, Pampana E",
+    "journal": "Neurosurgical Review",
+    "doi": "",
+    "tags": [
+      "Vascular",
+      "Review"
+    ],
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Setting+benchmark+for+ischemic+stroke+treated+endovascularly:+a+systematic+review+and+meta-analysis"
+  },
+  {
+    "year": "2025",
+    "title": "Vagus Nerve Stimulation in Movement Disorders, from Principles to a Systematic Review of Evidence",
+    "authors": "Proietti F, Ottaviani MM, Burchi E, Vivacqua G, Anzini G, Ricciuti R, Capone F, Macefield VG, Di Lazzaro V, Marano M",
+    "journal": "Movement Disorders",
+    "doi": "",
+    "tags": [
+      "VNS",
+      "Parkinson",
+      "Review"
+    ],
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Vagus+Nerve+Stimulation+in+Movement+Disorders,+from+Principles+to+a+Systematic+Review+of+Evidence"
+  },
+  {
+    "year": "2025",
+    "title": "Clinical and neuroradiological red flags in differential diagnosis of pituitary metastases and PitNETs",
+    "authors": "Ricciuti R, Paracino R, Mancini F, De Domenico P, Ricciuti V, Barbieri FR, Ottaviani MM, Pagano S, Marruzzo D",
+    "journal": "Neurologia i Neurochirurgia Polska",
+    "doi": "10.5603/pjnns.103406",
+    "tags": [
+      "Pituitary",
+      "Tumors"
+    ],
+    "doiUrl": "https://doi.org/10.5603/pjnns.103406",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Clinical+and+neuroradiological+red+flags+in+differential+diagnosis+of+pituitary+metastases+and+PitNETs"
   },
   {
     "year": "2024",
     "title": "The state of the art of intraoperative neurophysiological monitoring: An Italian neurosurgical survey",
-    "authors": "Ricciuti R, Mancini F, Guzzi G, Marruzzo D, Dario A, Puppa A.D., Ricci A, Barbanera A, Talacchi A, Schwarz A, et al.",
+    "authors": "Ricciuti R, Mancini F, Guzzi G, Marruzzo D, Dario A, Puppa AD, Ricci A, Barbanera A, Talacchi A, Schwarz A, et al.",
     "journal": "Brain and Spine",
     "doi": "10.1016/j.bas.2024.102796",
-    "tags": ["Monitoring", "Survey"]
+    "tags": [
+      "Monitoring",
+      "Survey"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.bas.2024.102796",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=The+state+of+the+art+of+intraoperative+neurophysiological+monitoring:+An+Italian+neurosurgical+survey"
   },
   {
     "year": "2024",
-    "title": "Left Vagus Stimulation Modulates Contralateral Subthalamic β Power Improving the Gait in Parkinson's Disease",
+    "title": "Left Vagus Stimulation Modulates Contralateral Subthalamic β Power Improving the Gait in Parkinson’s Disease",
     "authors": "Marano M, Anzini G, Saltarocchi L, Ricciuti R, Capone F, Tan H, Torrecillos F, Lanzone J, Di Lazzaro V",
     "journal": "Movement Disorders",
     "doi": "10.1002/mds.29690",
-    "tags": ["VNS", "Parkinson"]
+    "tags": [
+      "VNS",
+      "Parkinson"
+    ],
+    "doiUrl": "https://doi.org/10.1002/mds.29690",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Left+Vagus+Stimulation+Modulates+Contralateral+Subthalamic+β+Power+Improving+the+Gait+in+Parkinson%E2%80%99s+Disease"
   },
   {
-    "year": "2023",
-    "title": "Deep brain stimulation of the dentato-rubro-thalamic tract in a case of Holmes tremor: a constrained spherical deconvolution-guided procedure",
-    "authors": "Pozzilli V, Marano M, Magliozzi A, Mallio C.A, Marruzzo D, Barbieri F.R, Di Lazzaro V, Ricciuti R",
-    "journal": "Neurological Sciences",
-    "doi": "10.1007/s10072-022-06514-w",
-    "tags": ["DBS", "Tremor"]
+    "year": "2024",
+    "title": "Intraoperative Neurophysiological Monitoring in Neurosurgery",
+    "authors": "Guzzi G, Ricciuti R, Della Torre A, Lo Turco E, Lavano A, Longhini F, La Torre D",
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13102966",
+    "tags": [
+      "Monitoring"
+    ],
+    "doiUrl": "https://doi.org/10.3390/jcm13102966",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Intraoperative+Neurophysiological+Monitoring+in+Neurosurgery"
   },
   {
-    "year": "2023",
-    "title": "Awake craniotomy in an adolescent patient with an extraventricular neurocytoma",
-    "authors": "Ricciuti R, Mancini F, Ricciuti V, Paracino R",
-    "journal": "BMJ Case Reports",
-    "doi": "10.1136/bcr-2023-256102",
-    "tags": ["Awake surgery", "Neuro-oncology"]
+    "year": "2024",
+    "title": "Screw bubbling with air embolism, an unusual complication of a frameless deep brain stimulation",
+    "authors": "Marano M, Barbieri FR, Sucapane P, Pagano S, Marruzzo D, Di Lazzaro V, Ricciuti R",
+    "journal": "Journal of Neurosurgical Sciences",
+    "doi": "10.23736/S0390-5616.24.06241-6",
+    "tags": [
+      "DBS"
+    ],
+    "doiUrl": "https://doi.org/10.23736/S0390-5616.24.06241-6",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Screw+bubbling+with+air+embolism,+an+unusual+complication+of+a+frameless+deep+brain+stimulation"
+  },
+  {
+    "year": "2024",
+    "title": "Non-invasive cervical vagus nerve stimulation in essential tremor: an open-label pilot study",
+    "authors": "Marano M, Magee R, Blasi F, Anzini G, Capone F, Ricciuti R, Ottaviani MM, Di Lazzaro V",
+    "journal": "Brain Stimulation",
+    "doi": "10.1016/j.brs.2024.11.008",
+    "tags": [
+      "VNS",
+      "Tremor"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.brs.2024.11.008",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-invasive+cervical+vagus+nerve+stimulation+in+essential+tremor:+an+open-label+pilot+study"
   },
   {
     "year": "2023",
@@ -61,38 +159,177 @@
     "authors": "Pagano S, Ricciuti V, Mancini F, Barbieri FR, Chegai F, Marini A, Marruzzo D, Paracino R, Ricciuti R",
     "journal": "Surgical Neurology International",
     "doi": "10.25259/SNI_666_2023",
-    "tags": ["Review"]
+    "tags": [
+      "Review"
+    ],
+    "doiUrl": "https://doi.org/10.25259/SNI_666_2023",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Eagle+syndrome:+An+updated+review"
+  },
+  {
+    "year": "2023",
+    "title": "Deep brain stimulation of the dentato-rubro-thalamic tract in Holmes tremor: a CSD-guided procedure",
+    "authors": "Pozzilli V, Marano M, Magliozzi A, Mallio CA, Marruzzo D, Barbieri FR, Di Lazzaro V, Ricciuti R",
+    "journal": "Neurological Sciences",
+    "doi": "10.1007/s10072-022-06514-w",
+    "tags": [
+      "DBS",
+      "Tremor"
+    ],
+    "doiUrl": "https://doi.org/10.1007/s10072-022-06514-w",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+of+the+dentato-rubro-thalamic+tract+in+Holmes+tremor:+a+CSD-guided+procedure"
+  },
+  {
+    "year": "2023",
+    "title": "Modified percutaneous biopsy of the spine: improvement of the technique",
+    "authors": "Marruzzo D, Mancini F, Ricciuti V, Barbieri FR, Preziosi R, Pagano S, Ricciuti R",
+    "journal": "European Spine Journal",
+    "doi": "10.1007/s00586-022-07384-8",
+    "tags": [
+      "Spine"
+    ],
+    "doiUrl": "https://doi.org/10.1007/s00586-022-07384-8",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Modified+percutaneous+biopsy+of+the+spine:+improvement+of+the+technique"
+  },
+  {
+    "year": "2023",
+    "title": "Deep Brain Stimulation of the Anterior Nucleus of the Thalamus in Drug-Resistant Epilepsy in the MORE Registry",
+    "authors": "Peltola J, Colon AJ, Pimentel J, Coenen VA, Gil-Nagel A, Ferreira AG, et al.",
+    "journal": "Neurology",
+    "doi": "10.1212/WNL.0000000000206887",
+    "tags": [
+      "DBS",
+      "Epilepsy"
+    ],
+    "doiUrl": "https://doi.org/10.1212/WNL.0000000000206887",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+Brain+Stimulation+of+the+Anterior+Nucleus+of+the+Thalamus+in+Drug-Resistant+Epilepsy+in+the+MORE+Registry"
+  },
+  {
+    "year": "2023",
+    "title": "Awake craniotomy in an adolescent patient with an extraventricular neurocytoma",
+    "authors": "Ricciuti R, Mancini F, Ricciuti V, Paracino R",
+    "journal": "BMJ Case Reports",
+    "doi": "10.1136/bcr-2023-256102",
+    "tags": [
+      "Awake surgery",
+      "Neuro-oncology"
+    ],
+    "doiUrl": "https://doi.org/10.1136/bcr-2023-256102",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Awake+craniotomy+in+an+adolescent+patient+with+an+extraventricular+neurocytoma"
   },
   {
     "year": "2022",
-    "title": "Deep brain stimulation for Parkinson's disease in practice: results of the survey by the Italian Neurosurgery Society",
-    "authors": "Mancini F, Guzzi G, Castrioto C.F, Cavallo M.A, Conti A, et al.",
+    "title": "Non-invasive vagus nerve stimulation modulates subthalamic beta activity in Parkinson’s disease",
+    "authors": "Torrecillos F, Tan H, Brown P, Capone F, Ricciuti R, Di Lazzaro V, Marano M",
+    "journal": "Brain Stimulation",
+    "doi": "10.1016/j.brs.2022.11.006",
+    "tags": [
+      "VNS",
+      "Parkinson"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.brs.2022.11.006",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-invasive+vagus+nerve+stimulation+modulates+subthalamic+beta+activity+in+Parkinson%E2%80%99s+disease"
+  },
+  {
+    "year": "2022",
+    "title": "Deep brain stimulation for Parkinson’s disease in practice: survey by the Italian Neurosurgery Society",
+    "authors": "Mancini F, Guzzi G, Castrioto CF, Cavallo MA, Conti A, et al.",
     "journal": "Journal of Neurosurgical Sciences",
     "doi": "10.23736/S0390-5616.22.05751-4",
-    "tags": ["SINch", "DBS"]
+    "tags": [
+      "SINch",
+      "DBS",
+      "Parkinson"
+    ],
+    "doiUrl": "https://doi.org/10.23736/S0390-5616.22.05751-4",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+for+Parkinson%E2%80%99s+disease+in+practice:+survey+by+the+Italian+Neurosurgery+Society"
   },
   {
     "year": "2021",
-    "title": "Deep brain stimulation in patients with long history of drug resistant epilepsy and poor functional status: Outcomes based on the different targets",
-    "authors": "Passamonti C, Mancini F, Cesaroni E, Bonifazi S, Ceravolo M.G, Capecci M, Zamponi N, Scerrati M, Ricciuti R.A.",
+    "title": "Deep brain stimulation in drug-resistant epilepsy and poor functional status: outcomes based on different targets",
+    "authors": "Passamonti C, Mancini F, Cesaroni E, Bonifazi S, Ceravolo MG, Capecci M, Zamponi N, Scerrati M, Ricciuti RA",
     "journal": "Clinical Neurology and Neurosurgery",
     "doi": "10.1016/j.clineuro.2021.106827",
-    "tags": ["DBS", "Epilepsy"]
+    "tags": [
+      "DBS",
+      "Epilepsy"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.clineuro.2021.106827",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+in+drug-resistant+epilepsy+and+poor+functional+status:+outcomes+based+on+different+targets"
+  },
+  {
+    "year": "2020",
+    "title": "Tuning Frequencies across Leads with Interleaving Deep Brain Stimulation to Treat Asymmetric Tremor in Parkinson’s Disease",
+    "authors": "Marano M, Motolese F, Marruzzo D, Ricciuti R, Di Lazzaro V, Pilleri M",
+    "journal": "Canadian Journal of Neurological Sciences",
+    "doi": "10.1017/cjn.2020.64",
+    "tags": [
+      "DBS",
+      "Parkinson",
+      "Tremor"
+    ],
+    "doiUrl": "https://doi.org/10.1017/cjn.2020.64",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Tuning+Frequencies+across+Leads+with+Interleaving+Deep+Brain+Stimulation+to+Treat+Asymmetric+Tremor+in+Parkinson%E2%80%99s+Disease"
   },
   {
     "year": "2020",
     "title": "Cognitive and linguistic outcomes after awake craniotomy in patients with high-grade gliomas",
-    "authors": "Bonifazi S, Passamonti C, Vecchioni S, Trignani R, Martorano P.P, Durazzi V, Lattanzi S, Mancini F, Ricciuti R.A.",
+    "authors": "Bonifazi S, Passamonti C, Vecchioni S, Trignani R, Martorano PP, Durazzi V, Lattanzi S, Mancini F, Ricciuti RA",
     "journal": "Clinical Neurology and Neurosurgery",
     "doi": "10.1016/j.clineuro.2020.106089",
-    "tags": ["Awake surgery", "Gliomas"]
+    "tags": [
+      "Awake surgery",
+      "Gliomas"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.clineuro.2020.106089",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Cognitive+and+linguistic+outcomes+after+awake+craniotomy+in+patients+with+high-grade+gliomas"
   },
   {
-    "year": "2006",
-    "title": "Vagus nerve stimulation: Clinical experience in drug-resistant pediatric epileptic patients",
-    "authors": "Rychlicki F, Zamponi N, Trignani R, Ricciuti R, Iacoangeli M, Scerrati M",
-    "journal": "Seizure",
-    "doi": "10.1016/j.seizure.2006.06.001",
-    "tags": ["VNS", "Epilepsy"]
+    "year": "2018",
+    "title": "Delayed Intracerebral Hemorrhage After Pseudoaneurysm of Middle Meningeal Artery Rupture",
+    "authors": "Montanari E, Polonara G, Montalti R, Vivarelli M, Ricciuti RA, Giorgetti R, Tagliabracci A",
+    "journal": "World Neurosurgery",
+    "doi": "10.1016/j.wneu.2018.06.158",
+    "tags": [
+      "Vascular"
+    ],
+    "doiUrl": "https://doi.org/10.1016/j.wneu.2018.06.158",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Delayed+Intracerebral+Hemorrhage+After+Pseudoaneurysm+of+Middle+Meningeal+Artery+Rupture"
+  },
+  {
+    "year": "2017",
+    "title": "Effects of somatostatin and its analogues on progenitor mesenchymal cells isolated from human pituitary adenomas",
+    "authors": "Orciani M, Caffarini M, Sorgentoni G, Ricciuti RA, Arnaldi G, Di Primio R",
+    "journal": "Pituitary",
+    "doi": "10.1007/s11102-016-0770-x",
+    "tags": [
+      "Pituitary"
+    ],
+    "doiUrl": "https://doi.org/10.1007/s11102-016-0770-x",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Effects+of+somatostatin+and+its+analogues+on+progenitor+mesenchymal+cells+isolated+from+human+pituitary+adenomas"
+  },
+  {
+    "year": "2015",
+    "title": "Extending technology-aided leisure and communication programs to persons with spinal cord injury and post-coma multiple disabilities",
+    "authors": "Lancioni GE, Singh NN, O’Reilly MF, Sigafoos J, Ricciuti R, Trignani R, Oliva D, et al.",
+    "journal": "Disability and Rehabilitation: Assistive Technology",
+    "doi": "10.3109/17483107.2013.860635",
+    "tags": [
+      "Rehabilitation"
+    ],
+    "doiUrl": "https://doi.org/10.3109/17483107.2013.860635",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Extending+technology-aided+leisure+and+communication+programs+to+persons+with+spinal+cord+injury+and+post-coma+multiple+disabilities"
+  },
+  {
+    "year": "2015",
+    "title": "Isolation and characterization of progenitor mesenchymal cells in human pituitary tumors",
+    "authors": "Orciani M, Davis S, Appolloni G, Lazzarini R, Mattioli-Belmonte M, Ricciuti RA, Boscaro M, Di Primio R, Arnaldi G",
+    "journal": "Cancer Gene Therapy",
+    "doi": "10.1038/cgt.2014.63",
+    "tags": [
+      "Pituitary",
+      "Tumors"
+    ],
+    "doiUrl": "https://doi.org/10.1038/cgt.2014.63",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Isolation+and+characterization+of+progenitor+mesenchymal+cells+in+human+pituitary+tumors"
   }
 ]

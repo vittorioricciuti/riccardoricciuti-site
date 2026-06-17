@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Struttura pubblica",
+    "name": "A.O. San Camillo Forlanini — UOC Neurochirurgia",
+    "description": "Contatti istituzionali della UOC Neurochirurgia diretta dal Dott. Ricciuti. Utilizzare la segreteria per informazioni su percorsi, disponibilità e canali di prenotazione della struttura pubblica.",
+    "address": "Circonvallazione Gianicolense, 87 — 00152 Roma",
+    "phone": "06 5870 4681",
+    "phoneHref": "+390658704681",
+    "email": "rricciuti@scamilloforlanini.rm.it",
+    "url": "https://www.scamilloforlanini.rm.it/web/guest/w/uoc-neurochirurgia"
+  },
+  {
+    "type": "Visita specialistica",
+    "name": "Progetto Salute C.M.C.",
+    "description": "Centro medico specialistico presso cui risulta disponibile la prestazione di visita neurochirurgica / visita specialistica. Contattare direttamente il centro per prenotazioni e disponibilità.",
+    "address": "Via Pirelli 2 — Civitanova Marche (MC)",
+    "phone": "0733 1778648",
+    "phoneHref": "+3907331778648",
+    "email": "info@progettosalutecmc.it",
+    "url": "https://progettosalutecmc.it/dr-ricciuti-riccardo-antonio/"
+  }
+]

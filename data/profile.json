@@ -6,29 +6,166 @@
   "email": "rricciuti@scamilloforlanini.rm.it",
   "phone": "06 5870 4681",
   "location": "Roma",
-  "summary": "Neurochirurgo con attività clinica e scientifica orientata alla neurochirurgia funzionale, alla chirurgia dei tumori cerebrali e ipofisari, alla patologia spinale, alla neurochirurgia vascolare e alle tecniche avanzate di monitoraggio intraoperatorio.",
+  "linkedin": "https://it.linkedin.com/in/riccardo-antonio-ricciuti-19125085",
+  "orcid": "https://orcid.org/0000-0003-4970-2065",
+  "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Ricciuti+r&sort=date",
+  "scopus": "https://www.scopus.com/authid/detail.uri?authorId=6603614472",
+  "summary": "Direttore della UOC di Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma. L’attività clinica e scientifica integra neurochirurgia funzionale, patologia cerebrale e spinale, chirurgia ipofisaria, neuro-oncologia e tecnologie intraoperatorie avanzate.",
+  "stats": [
+    {
+      "value": "Direttore",
+      "label": "UOC Neurochirurgia — San Camillo Forlanini"
+    },
+    {
+      "value": "ASN II Fascia",
+      "label": "Abilitazione Scientifica Nazionale 06/E3"
+    },
+    {
+      "value": "SINch",
+      "label": "Consiglio Direttivo 2024–2026"
+    },
+    {
+      "value": "ORCID",
+      "label": "Pubblicazioni aggiornabili automaticamente"
+    }
+  ],
   "highlights": [
-    "Direttore della UOC Neurochirurgia del San Camillo Forlanini di Roma",
-    "Abilitazione Scientifica Nazionale a Professore di II fascia nel settore 06/E3",
+    "Direttore UOC Neurochirurgia — Azienda Ospedaliera San Camillo Forlanini, Roma",
+    "Abilitazione Scientifica Nazionale a Professore di II fascia — settore 06/E3 Neurochirurgia e Chirurgia Maxillo-Facciale",
     "Consigliere del Consiglio Direttivo SINch 2024–2026",
     "Già Responsabile della Sezione di Neurochirurgia Funzionale SINch",
-    "Attività scientifica su DBS, Parkinson, epilessia, awake surgery, radiochirurgia e patologia ipofisaria"
+    "Attività clinica su neurochirurgia funzionale, patologia spinale, tumori cerebrali, ipofisi, idrocefalo e patologie del dolore cranio-facciale",
+    "Produzione scientifica su DBS, Parkinson, epilessia, monitoraggio neurofisiologico, awake surgery e patologia ipofisaria"
   ],
-  "interests": [
-    "Neurochirurgia funzionale",
-    "Deep Brain Stimulation",
-    "Malattia di Parkinson e disturbi del movimento",
-    "Epilessia farmacoresistente",
-    "Tumori cerebrali e metastasi",
-    "Chirurgia da sveglio / awake surgery",
-    "Neuro-oncologia",
-    "Patologia ipofisaria e basicranio",
-    "Idrocefalo normoteso",
-    "Chirurgia spinale",
-    "Ernia discale e spondilolistesi",
-    "Aneurismi e patologia cerebrovascolare",
-    "Monitoraggio neurofisiologico intraoperatorio",
-    "Radiochirurgia",
-    "Neurotraumatologia"
+  "profileText": [
+    "Il Dott. Riccardo Antonio Ricciuti è neurochirurgo e Direttore della UOC di Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma.",
+    "La sua attività integra assistenza clinica, chirurgia ad alta complessità, ricerca e formazione. Il percorso scientifico è particolarmente orientato alla neurochirurgia funzionale, alla stimolazione cerebrale profonda, alla chirurgia dell’epilessia, alla patologia ipofisaria, alla neuro-oncologia, al monitoraggio neurofisiologico intraoperatorio e alla patologia spinale.",
+    "Ha conseguito l’Abilitazione Scientifica Nazionale a Professore di seconda fascia per il settore 06/E3 ed è attivo in ambito societario nazionale, con incarichi nella Società Italiana di Neurochirurgia."
+  ],
+  "areas": [
+    {
+      "title": "Chirurgia spinale",
+      "kicker": "Ernia, stenosi, spondilolistesi",
+      "priority": true,
+      "summary": "Valutazione neurochirurgica delle patologie degenerative e compressive della colonna, tra le cause più frequenti di accesso ambulatoriale.",
+      "details": [
+        "Ernia discale cervicale e lombare, stenosi del canale, spondilolistesi degenerativa, mielopatia cervicale, lombosciatalgia e cervicobrachialgia.",
+        "L’indicazione chirurgica viene valutata correlando sintomi, esame neurologico, imaging e risposta alle terapie conservative.",
+        "La sezione è volutamente in evidenza: la patologia spinale è un ambito clinico centrale per l’attività ambulatoriale."
+      ],
+      "tags": [
+        "Ernia discale",
+        "Stenosi",
+        "Spondilolistesi",
+        "Sciatalgia",
+        "Cervicobrachialgia"
+      ]
+    },
+    {
+      "title": "Neurochirurgia funzionale e DBS",
+      "kicker": "Parkinson, tremore, epilessia",
+      "summary": "Percorsi dedicati alla stimolazione cerebrale profonda e alle terapie chirurgiche nei disturbi del movimento e in casi selezionati di epilessia farmacoresistente.",
+      "details": [
+        "Valutazione multidisciplinare neurologica e neurochirurgica.",
+        "DBS per malattia di Parkinson, tremore e distonie secondo indicazione specialistica.",
+        "Esperienza scientifica su DBS, neurostimolazione e tecnologie di monitoraggio."
+      ],
+      "tags": [
+        "DBS",
+        "Parkinson",
+        "Tremore",
+        "Epilessia"
+      ]
+    },
+    {
+      "title": "Patologia ipofisaria e regione sellare",
+      "kicker": "Adenomi, craniofaringiomi, lesioni sellari",
+      "summary": "Diagnosi e trattamento neurochirurgico delle lesioni della regione ipofisaria e sellare, in integrazione con endocrinologia, neuroradiologia e altre specialità.",
+      "details": [
+        "Adenomi ipofisari, craniofaringiomi, lesioni sellari e parasellari.",
+        "Approccio multidisciplinare alla valutazione endocrinologica, visiva e neuroradiologica.",
+        "Esperienza scientifica su tumori ipofisari e diagnosi differenziale con metastasi sellari."
+      ],
+      "tags": [
+        "Ipofisi",
+        "Adenoma",
+        "Craniofaringioma"
+      ]
+    },
+    {
+      "title": "Neuro-oncologia e chirurgia cerebrale",
+      "kicker": "Tumori, metastasi, awake surgery",
+      "summary": "Trattamento chirurgico delle lesioni cerebrali con attenzione alla preservazione funzionale e alla pianificazione multidisciplinare.",
+      "details": [
+        "Tumori cerebrali primitivi e secondari, metastasi e lesioni in aree eloquenti.",
+        "Awake surgery quando indicata per massimizzare sicurezza e preservazione delle funzioni neurologiche.",
+        "Integrazione con neuroradiologia, oncologia, radioterapia e neurofisiologia."
+      ],
+      "tags": [
+        "Tumori cerebrali",
+        "Metastasi",
+        "Awake surgery"
+      ]
+    },
+    {
+      "title": "Idrocefalo normoteso",
+      "kicker": "Diagnosi, selezione, trattamento",
+      "summary": "Percorso di valutazione per pazienti con sospetto idrocefalo normoteso, condizione potenzialmente trattabile in casi selezionati.",
+      "details": [
+        "Valutazione di disturbi del cammino, decadimento cognitivo e incontinenza quando compatibili con quadro liquorale.",
+        "Selezione del paziente sulla base di clinica, imaging e test dedicati.",
+        "Follow-up post-trattamento e coordinamento multidisciplinare."
+      ],
+      "tags": [
+        "NPH",
+        "Liquor",
+        "Cammino"
+      ]
+    },
+    {
+      "title": "Nevralgia trigeminale e dolore cranio-facciale",
+      "kicker": "Dolore resistente alla terapia",
+      "summary": "Inquadramento specialistico delle nevralgie craniche e del dolore cranio-facciale nei casi in cui sia indicata una valutazione neurochirurgica.",
+      "details": [
+        "Nevralgia trigeminale primaria o secondaria.",
+        "Valutazione delle opzioni microchirurgiche o percutanee nei casi selezionati.",
+        "Percorso integrato con neurologia e terapia del dolore."
+      ],
+      "tags": [
+        "Trigemino",
+        "Dolore",
+        "Tecniche percutanee"
+      ]
+    },
+    {
+      "title": "Neurotraumatologia e patologia vascolare",
+      "kicker": "Urgenza e percorsi ospedalieri",
+      "summary": "Gestione neurochirurgica in ambito ospedaliero di traumi cranici, emorragie e patologie vascolari selezionate.",
+      "details": [
+        "Trauma cranico, emorragie cerebrali e complicanze acute.",
+        "Aneurismi e patologia vascolare in contesto multidisciplinare.",
+        "Esperienza in reti e percorsi tempo-dipendenti."
+      ],
+      "tags": [
+        "Trauma",
+        "Aneurismi",
+        "Emorragie"
+      ]
+    },
+    {
+      "title": "Tecnologie intraoperatorie",
+      "kicker": "Monitoraggio e precisione",
+      "summary": "Utilizzo di monitoraggio neurofisiologico, imaging e tecnologie di supporto alla sicurezza chirurgica negli interventi complessi.",
+      "details": [
+        "Monitoraggio neurofisiologico intraoperatorio.",
+        "Tecniche stereotassiche, neuronavigazione e supporti tecnologici.",
+        "Ricerca clinica sull’organizzazione e lo stato dell’arte del monitoraggio in neurochirurgia."
+      ],
+      "tags": [
+        "IOM",
+        "Neuronavigazione",
+        "Stereotassi"
+      ]
+    }
   ]
 }

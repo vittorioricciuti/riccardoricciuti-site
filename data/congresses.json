@@ -1,65 +1,133 @@
 [
   {
     "year": "2025",
-    "title": "Corso SINch di approfondimento e formazione in Neurochirurgia Funzionale",
-    "place": "Italia",
-    "role": "Organizzazione scientifica / faculty",
-    "topic": "Percorso formativo nazionale dedicato alla neurochirurgia funzionale"
+    "title": "Congresso Nazionale SINch 2025",
+    "place": "Brescia",
+    "role": "Consiglio Direttivo / organizzazione scientifica",
+    "topic": "Organizzazione del Congresso Nazionale SINch, valutazione abstract e definizione del programma scientifico.",
+    "url": "https://sinch.it/"
+  },
+  {
+    "year": "2025",
+    "title": "Functional Neurosurgery Hands-On Course",
+    "place": "ICLO Verona",
+    "role": "Organizzazione scientifica",
+    "topic": "Corso cadaver-lab in neurochirurgia funzionale: VNS, lobectomia temporale e tecniche stereotassiche.",
+    "url": "https://sinch.it/"
+  },
+  {
+    "year": "2025",
+    "title": "Parkinson, Alzheimer o Idrocefalo Normoteso?",
+    "place": "Roma",
+    "role": "Relatore / Tavola rotonda",
+    "topic": "Approfondimento su idrocefalo normoteso e diagnosi differenziale nelle patologie cognitive dell’adulto."
+  },
+  {
+    "year": "2023–2025",
+    "title": "Corso SINch di Neurochirurgia Funzionale",
+    "place": "Centri italiani di neurochirurgia",
+    "role": "Organizzazione / faculty",
+    "topic": "Percorso nazionale di approfondimento e formazione dedicato a giovani specialisti e specializzandi.",
+    "url": "https://sinch.it/"
   },
   {
     "year": "2024",
-    "title": "Master di Neurochirurgia Funzionale di II livello",
-    "place": "Roma, San Camillo Forlanini",
+    "title": "Master di II livello in Neurochirurgia Funzionale",
+    "place": "San Camillo Forlanini, Roma",
     "role": "Faculty",
-    "topic": "Formazione avanzata in neurochirurgia funzionale"
+    "topic": "Formazione avanzata su DBS, epilessia, disturbi del movimento e tecniche stereotassiche."
   },
   {
     "year": "2023",
     "title": "3rd Joint Congress of the INS European Chapters",
     "place": "Hamburg, Germany",
     "role": "Relatore",
-    "topic": "Adaptive neurostimulation and BrainSense DBS technology"
+    "topic": "Adaptive neurostimulation e BrainSense DBS technology in clinical practice.",
+    "url": "https://www.ins-congress.com/"
   },
   {
     "year": "2023",
-    "title": "Live Neurosurgery and Neuromonitoring 2023",
+    "title": "Live Neurosurgery and Neuromonitoring",
     "place": "Firenze",
     "role": "Docente",
-    "topic": "Monitoraggio neurofisiologico intra e peri-operatorio"
+    "topic": "Monitoraggio neurofisiologico intra e peri-operatorio in neurochirurgia."
   },
   {
-    "year": "2022",
-    "title": "Giornata Parkinson 2022",
-    "place": "Viterbo",
-    "role": "Organizzazione e relazione",
-    "topic": "Terapie avanzate per la Malattia di Parkinson e disturbi del movimento"
+    "year": "2023",
+    "title": "Bridging Neurosciences and Neurosurgery",
+    "place": "Verona",
+    "role": "Faculty",
+    "topic": "Nuove frontiere nel monitoraggio neurofisiologico intraoperatorio, congresso con partecipazione EANS.",
+    "url": "https://eans.org/"
   },
   {
     "year": "2022",
     "title": "Riunione Regionale SIN Lazio",
     "place": "Roma",
     "role": "Relatore",
-    "topic": "Il ruolo della chirurgia funzionale nel paziente affetto da epilessia"
+    "topic": "Il ruolo della chirurgia funzionale nel paziente affetto da epilessia."
+  },
+  {
+    "year": "2022",
+    "title": "Giornata Parkinson 2022",
+    "place": "Viterbo",
+    "role": "Organizzazione e relazione",
+    "topic": "Terapie avanzate per Parkinson e disturbi del movimento."
+  },
+  {
+    "year": "2022",
+    "title": "Nuove tecnologie in stimolazione cerebrale profonda",
+    "place": "Viterbo",
+    "role": "Organizzazione e relazione",
+    "topic": "Tecniche innovative di DBS nei disturbi del movimento."
   },
   {
     "year": "2021",
-    "title": "Corso di approfondimento e formazione in Neurochirurgia Funzionale",
+    "title": "Live Surgery — DBS per Malattia di Parkinson",
     "place": "Viterbo",
-    "role": "Live surgery / Relatore",
-    "topic": "Deep Brain Stimulation nella Malattia di Parkinson"
+    "role": "Live surgery / relatore",
+    "topic": "Corso di approfondimento in neurochirurgia funzionale con dimostrazione chirurgica."
   },
   {
     "year": "2020",
     "title": "Idrocefalo normoteso: la demenza reversibile",
     "place": "Viterbo",
     "role": "Organizzazione e relazione",
-    "topic": "Diagnosi, organizzazione del centro e trattamento dell'idrocefalo normoteso"
+    "topic": "Percorso diagnostico-terapeutico, selezione del paziente e follow-up."
   },
   {
     "year": "2019",
     "title": "Tecnologia e rete in neurochirurgia",
     "place": "Viterbo",
     "role": "Relatore",
-    "topic": "Awake surgery nei tumori cerebrali"
+    "topic": "Awake surgery nei tumori cerebrali e organizzazione di percorsi neurochirurgici moderni."
+  },
+  {
+    "year": "2019",
+    "title": "Deep Brain Stimulation nel trattamento dei disordini del movimento e dell’epilessia",
+    "place": "Roma, Campus Bio-Medico",
+    "role": "Docente",
+    "topic": "Seminario sulla DBS nella Malattia di Parkinson."
+  },
+  {
+    "year": "2017",
+    "title": "Dalla teoria localizzatoria al network funzionale",
+    "place": "Ancona",
+    "role": "Organizzazione e relatore",
+    "topic": "Approccio funzionale e multidisciplinare nella pratica clinica neurochirurgica."
+  },
+  {
+    "year": "2016",
+    "title": "Pituitary Surgery — International Chinese Meeting",
+    "place": "Shijiazhuang, China",
+    "role": "Relatore invitato",
+    "topic": "Storia della chirurgia del basicranio e degli approcci alla regione ipofisaria."
+  },
+  {
+    "year": "2015",
+    "title": "I Corso live residenziale di DBS nei pazienti con Malattia di Parkinson",
+    "place": "Ancona",
+    "role": "Organizzazione e relatore",
+    "topic": "Corso teorico-pratico sulla stimolazione cerebrale profonda."
   }
 ]
