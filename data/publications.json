@@ -1,0 +1,98 @@
+[
+  {
+    "year": "2025",
+    "title": "Clinical and neuroradiological red flags in differential diagnosis of pituitary metastases and PitNETs (adenomas): a surgeon’s experience and systematic literature review",
+    "authors": "Ricciuti R, Paracino R, Mancini F, De Domenico P, Ricciuti V, Barbieri FR, Ottaviani MM, Pagano S, Marruzzo D",
+    "journal": "Neurologia i Neurochirurgia Polska",
+    "doi": "10.5603/pjnns.103406",
+    "tags": ["Pituitary", "Tumors"]
+  },
+  {
+    "year": "2025",
+    "title": "Deep brain stimulation in Parkinson’s disease: a comparison of accuracy and clinical outcomes of frame-based, frameless and frameless fiducial-less techniques",
+    "authors": "Ricciuti R, Ottaviani M, Mancini F, Marano M, Marruzzo D, Barbieri F, Paracino R, De Domenico P, Pagano S, Di Lazzaro V, Dobran M",
+    "journal": "Neurological Sciences",
+    "doi": "10.1007/s10072-025-08102-0",
+    "tags": ["DBS", "Parkinson"]
+  },
+  {
+    "year": "2025",
+    "title": "Long-term infective complications of deep brain stimulation in Parkinson's disease: A 22-year follow-up",
+    "authors": "Ricciuti R, Ottaviani MM, Mancini F, Liverotti V, Marruzzo D, Marani M, Barbieri F, Paracino R, Pagano S, Di Lazzaro V, Dobran M",
+    "journal": "Clinical Parkinsonism & Related Disorders",
+    "doi": "",
+    "tags": ["DBS", "Parkinson"]
+  },
+  {
+    "year": "2024",
+    "title": "The state of the art of intraoperative neurophysiological monitoring: An Italian neurosurgical survey",
+    "authors": "Ricciuti R, Mancini F, Guzzi G, Marruzzo D, Dario A, Puppa A.D., Ricci A, Barbanera A, Talacchi A, Schwarz A, et al.",
+    "journal": "Brain and Spine",
+    "doi": "10.1016/j.bas.2024.102796",
+    "tags": ["Monitoring", "Survey"]
+  },
+  {
+    "year": "2024",
+    "title": "Left Vagus Stimulation Modulates Contralateral Subthalamic β Power Improving the Gait in Parkinson's Disease",
+    "authors": "Marano M, Anzini G, Saltarocchi L, Ricciuti R, Capone F, Tan H, Torrecillos F, Lanzone J, Di Lazzaro V",
+    "journal": "Movement Disorders",
+    "doi": "10.1002/mds.29690",
+    "tags": ["VNS", "Parkinson"]
+  },
+  {
+    "year": "2023",
+    "title": "Deep brain stimulation of the dentato-rubro-thalamic tract in a case of Holmes tremor: a constrained spherical deconvolution-guided procedure",
+    "authors": "Pozzilli V, Marano M, Magliozzi A, Mallio C.A, Marruzzo D, Barbieri F.R, Di Lazzaro V, Ricciuti R",
+    "journal": "Neurological Sciences",
+    "doi": "10.1007/s10072-022-06514-w",
+    "tags": ["DBS", "Tremor"]
+  },
+  {
+    "year": "2023",
+    "title": "Awake craniotomy in an adolescent patient with an extraventricular neurocytoma",
+    "authors": "Ricciuti R, Mancini F, Ricciuti V, Paracino R",
+    "journal": "BMJ Case Reports",
+    "doi": "10.1136/bcr-2023-256102",
+    "tags": ["Awake surgery", "Neuro-oncology"]
+  },
+  {
+    "year": "2023",
+    "title": "Eagle syndrome: An updated review",
+    "authors": "Pagano S, Ricciuti V, Mancini F, Barbieri FR, Chegai F, Marini A, Marruzzo D, Paracino R, Ricciuti R",
+    "journal": "Surgical Neurology International",
+    "doi": "10.25259/SNI_666_2023",
+    "tags": ["Review"]
+  },
+  {
+    "year": "2022",
+    "title": "Deep brain stimulation for Parkinson's disease in practice: results of the survey by the Italian Neurosurgery Society",
+    "authors": "Mancini F, Guzzi G, Castrioto C.F, Cavallo M.A, Conti A, et al.",
+    "journal": "Journal of Neurosurgical Sciences",
+    "doi": "10.23736/S0390-5616.22.05751-4",
+    "tags": ["SINch", "DBS"]
+  },
+  {
+    "year": "2021",
+    "title": "Deep brain stimulation in patients with long history of drug resistant epilepsy and poor functional status: Outcomes based on the different targets",
+    "authors": "Passamonti C, Mancini F, Cesaroni E, Bonifazi S, Ceravolo M.G, Capecci M, Zamponi N, Scerrati M, Ricciuti R.A.",
+    "journal": "Clinical Neurology and Neurosurgery",
+    "doi": "10.1016/j.clineuro.2021.106827",
+    "tags": ["DBS", "Epilepsy"]
+  },
+  {
+    "year": "2020",
+    "title": "Cognitive and linguistic outcomes after awake craniotomy in patients with high-grade gliomas",
+    "authors": "Bonifazi S, Passamonti C, Vecchioni S, Trignani R, Martorano P.P, Durazzi V, Lattanzi S, Mancini F, Ricciuti R.A.",
+    "journal": "Clinical Neurology and Neurosurgery",
+    "doi": "10.1016/j.clineuro.2020.106089",
+    "tags": ["Awake surgery", "Gliomas"]
+  },
+  {
+    "year": "2006",
+    "title": "Vagus nerve stimulation: Clinical experience in drug-resistant pediatric epileptic patients",
+    "authors": "Rychlicki F, Zamponi N, Trignani R, Ricciuti R, Iacoangeli M, Scerrati M",
+    "journal": "Seizure",
+    "doi": "10.1016/j.seizure.2006.06.001",
+    "tags": ["VNS", "Epilepsy"]
+  }
+]

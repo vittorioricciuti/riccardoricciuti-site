@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Sito professionale del Dott. Riccardo Antonio Ricciuti, neurochirurgo, Direttore UOC Neurochirurgia San Camillo Forlanini Roma.">
+  <title>Dott. Riccardo Antonio Ricciuti | Neurochirurgo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#contenuto">Vai al contenuto</a>
+  <header class="site-header" data-header>
+    <a class="brand" href="#home" aria-label="Vai alla home">
+      <span class="brand-mark">RR</span>
+      <span>
+        <strong>Riccardo A. Ricciuti</strong>
+        <em>Neurochirurgo</em>
+      </span>
+    </a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav id="nav" class="nav" aria-label="Navigazione principale">
+      <a href="#profilo">Profilo</a>
+      <a href="#aree">Aree</a>
+      <a href="#pubblicazioni">Pubblicazioni</a>
+      <a href="#attivita">Attività</a>
+      <a href="#media">Media</a>
+      <a href="#contatti" class="nav-cta">Contatti</a>
+    </nav>
+  </header>
+
+  <main id="contenuto">
+    <section id="home" class="hero section-pad">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="container hero-grid">
+        <div class="hero-copy reveal">
+          <p class="eyebrow">Neurochirurgia • Roma • San Camillo Forlanini</p>
+          <h1>Dott. Riccardo Antonio Ricciuti</h1>
+          <p class="lead">Direttore della UOC Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma.</p>
+          <p class="hero-text">Un profilo clinico e scientifico dedicato alla neurochirurgia funzionale, alla chirurgia cerebrale e spinale, alla patologia ipofisaria e alle tecniche avanzate di trattamento e monitoraggio.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#contatti">Contatti istituzionali</a>
+            <a class="button ghost" href="#pubblicazioni">Pubblicazioni</a>
+          </div>
+        </div>
+        <aside class="portrait-card reveal" aria-label="Scheda professionale">
+          <img src="assets/portrait-placeholder.svg" alt="Ritratto professionale del Dott. Riccardo Antonio Ricciuti" id="portrait">
+          <div class="portrait-caption">
+            <span>Direttore UOC Neurochirurgia</span>
+            <strong>San Camillo Forlanini</strong>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="profilo" class="section-pad">
+      <div class="container two-col">
+        <div class="section-intro reveal">
+          <p class="eyebrow">Profilo</p>
+          <h2>Esperienza clinica, ricerca e formazione specialistica.</h2>
+        </div>
+        <div class="profile-copy reveal">
+          <p>Il Dott. Ricciuti svolge attività neurochirurgica presso il San Camillo Forlanini di Roma, con un percorso professionale maturato in centri ospedalieri ad alta complessità e una produzione scientifica concentrata su chirurgia funzionale, radiochirurgia, neuro-oncologia, monitoraggio neurofisiologico intraoperatorio e patologia ipofisaria.</p>
+          <div class="stats-grid" id="highlights"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="aree" class="section-pad muted">
+      <div class="container">
+        <div class="split-heading reveal">
+          <div>
+            <p class="eyebrow">Aree di interesse</p>
+            <h2>Un approccio trasversale alla neurochirurgia moderna.</h2>
+          </div>
+          <p>La sezione è pensata per un pubblico generale, ma mantiene un livello adeguato anche per colleghi e specialisti.</p>
+        </div>
+        <div class="chips" id="interests"></div>
+      </div>
+    </section>
+
+    <section id="pubblicazioni" class="section-pad">
+      <div class="container">
+        <div class="split-heading reveal">
+          <div>
+            <p class="eyebrow">Ricerca</p>
+            <h2>Pubblicazioni scientifiche</h2>
+          </div>
+          <div class="filters" aria-label="Filtri pubblicazioni">
+            <button class="filter active" data-filter="all">Tutte</button>
+            <button class="filter" data-filter="DBS">DBS</button>
+            <button class="filter" data-filter="Parkinson">Parkinson</button>
+            <button class="filter" data-filter="Awake surgery">Awake</button>
+            <button class="filter" data-filter="Epilepsy">Epilessia</button>
+          </div>
+        </div>
+        <div class="pub-list" id="publications"></div>
+        <div class="pub-actions reveal">
+          <a class="button ghost" href="https://pubmed.ncbi.nlm.nih.gov/?term=Ricciuti+r&sort=date#" target="_blank" rel="noopener">Profilo PubMed</a>
+          <a class="button ghost" href="https://www.scopus.com/authid/detail.uri?authorId=6603614472" target="_blank" rel="noopener">Profilo Scopus</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="attivita" class="section-pad dark">
+      <div class="container two-col">
+        <div class="section-intro reveal">
+          <p class="eyebrow">Attività scientifica</p>
+          <h2>Congressi, formazione e società scientifiche.</h2>
+          <p>Una timeline sintetica per valorizzare le attività più rappresentative senza appesantire la navigazione.</p>
+        </div>
+        <div>
+          <div class="timeline" id="congresses"></div>
+          <div class="society-card reveal">
+            <h3>Società scientifiche</h3>
+            <p>Consigliere del Consiglio Direttivo SINch 2024–2026; già Responsabile della Sezione di Neurochirurgia Funzionale SINch.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="media" class="section-pad">
+      <div class="container">
+        <div class="split-heading reveal">
+          <div>
+            <p class="eyebrow">Media</p>
+            <h2>Video e interviste</h2>
+          </div>
+          <p>La vecchia impostazione “pillole” diventa una sezione selettiva: interviste, contributi divulgativi e contenuti video qualificati.</p>
+        </div>
+        <div class="video-grid" id="videos"></div>
+      </div>
+    </section>
+
+    <section id="contatti" class="section-pad contact-section">
+      <div class="container contact-grid">
+        <div class="reveal">
+          <p class="eyebrow">Contatti</p>
+          <h2>Informazioni istituzionali</h2>
+          <p>Per comunicazioni professionali e informazioni di segreteria fare riferimento ai contatti pubblici della struttura.</p>
+        </div>
+        <div class="contact-card reveal">
+          <h3>A.O. San Camillo Forlanini</h3>
+          <p><strong>UOC Neurochirurgia</strong></p>
+          <p>Circonvallazione Gianicolense, 87<br>00152 Roma</p>
+          <p><a href="mailto:rricciuti@scamilloforlanini.rm.it">rricciuti@scamilloforlanini.rm.it</a></p>
+          <p><a href="tel:+390658704681">06 5870 4681</a></p>
+          <a class="button primary" href="https://www.scamilloforlanini.rm.it/web/guest/w/uoc-neurochirurgia" target="_blank" rel="noopener">Pagina istituzionale</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <p>© <span id="year"></span> Riccardo Antonio Ricciuti</p>
+      <p>Informazioni generali. Il sito non sostituisce una valutazione medica specialistica.</p>
+      <a href="#home">Torna su</a>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

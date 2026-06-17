@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Ritratto professionale</title>
+  <desc id="desc">Placeholder per una fotografia professionale del Dott. Ricciuti.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#eef3f6"/>
+      <stop offset="0.48" stop-color="#d4e0e7"/>
+      <stop offset="1" stop-color="#acbfca"/>
+    </linearGradient>
+    <linearGradient id="s" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#12313d"/>
+      <stop offset="1" stop-color="#0c1d26"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g)"/>
+  <circle cx="450" cy="345" r="150" fill="#f8fafb" opacity=".88"/>
+  <path d="M165 1055c38-236 145-371 285-371s247 135 285 371z" fill="url(#s)" opacity=".92"/>
+  <path d="M265 1048c30-155 97-248 185-248s155 93 185 248z" fill="#173746" opacity=".65"/>
+  <text x="450" y="90" text-anchor="middle" font-size="34" fill="#14313f" font-family="Georgia,serif">Riccardo Antonio Ricciuti</text>
+  <text x="450" y="136" text-anchor="middle" font-size="22" fill="#526d79" font-family="Arial,sans-serif">Neurochirurgia • Roma</text>
+</svg>
