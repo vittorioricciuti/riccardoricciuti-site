@@ -1,4 +1,4 @@
-# Sito Riccardo Antonio Ricciuti — versione 4
+# Sito Riccardo Antonio Ricciuti — versione 6
 
 Questa versione è pensata per GitHub Pages ed è completamente statica: non richiede server, database o abbonamenti.
 
@@ -27,7 +27,7 @@ a:
 
 ## Pubblicazioni automatiche
 
-Il workflow esegue ogni lunedì lo script:
+Il workflow esegue a ogni deploy e ogni lunedì lo script:
 
 `scripts/update_orcid.py`
 
@@ -35,7 +35,7 @@ La fonte principale è ORCID:
 
 `https://orcid.org/0000-0003-4970-2065`
 
-Se ORCID non risponde, il sito mantiene il file `data/publications.json` già presente e il deploy non si blocca.
+Lo script legge le opere pubbliche dal profilo ORCID, ordina le pubblicazioni per anno decrescente e genera il file usato dal sito durante il deploy. Se ORCID non risponde, il sito mantiene il file `data/publications.json` già presente e il deploy non si blocca.
 
 ## File contenuti
 

@@ -5,7 +5,7 @@ async function loadJson(path){ const res = await fetch(path); if(!res.ok) throw 
 function el(tag, cls, html){ const n=document.createElement(tag); if(cls) n.className=cls; if(html!==undefined) n.innerHTML=html; return n; }
 function renderProfile(){
   const p = state.profile;
-  $('#stats').innerHTML = p.stats.map(s=>`<div class="credential"><strong>${s.value}</strong><span>${s.label}</span></div>`).join('');
+  const statsEl = $('#stats'); if (statsEl && p.stats) statsEl.innerHTML = p.stats.map(s=>`<div class="credential"><strong>${s.value}</strong><span>${s.label}</span></div>`).join('');
   $('#profileText').innerHTML = p.profileText.map(t=>`<p>${t}</p>`).join('');
   $('#highlights').innerHTML = p.highlights.map(h=>`<span class="badge">${h}</span>`).join('');
 }

@@ -10,48 +10,43 @@
   "orcid": "https://orcid.org/0000-0003-4970-2065",
   "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Ricciuti+r&sort=date",
   "scopus": "https://www.scopus.com/authid/detail.uri?authorId=6603614472",
-  "summary": "Direttore della UOC di Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma. L’attività clinica e scientifica integra neurochirurgia funzionale, patologia cerebrale e spinale, chirurgia ipofisaria, neuro-oncologia e tecnologie intraoperatorie avanzate.",
+  "summary": "Direttore della UOC di Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma. L’attività clinica comprende la valutazione e il trattamento delle principali patologie spinali, cerebrali, funzionali e ipofisarie.",
   "stats": [
     {
-      "value": "Direttore",
-      "label": "UOC Neurochirurgia — San Camillo Forlanini"
+      "value": "San Camillo Forlanini",
+      "label": "Direzione UOC Neurochirurgia"
     },
     {
-      "value": "ASN II Fascia",
-      "label": "Abilitazione Scientifica Nazionale 06/E3"
+      "value": "Roma",
+      "label": "Attività clinica ospedaliera e ambulatoriale"
     },
     {
-      "value": "SINch",
-      "label": "Consiglio Direttivo 2024–2026"
-    },
-    {
-      "value": "ORCID",
-      "label": "Pubblicazioni aggiornabili automaticamente"
+      "value": "Colonna e neurochirurgia",
+      "label": "Patologie spinali, cerebrali e funzionali"
     }
   ],
   "highlights": [
-    "Direttore UOC Neurochirurgia — Azienda Ospedaliera San Camillo Forlanini, Roma",
-    "Abilitazione Scientifica Nazionale a Professore di II fascia — settore 06/E3 Neurochirurgia e Chirurgia Maxillo-Facciale",
-    "Consigliere del Consiglio Direttivo SINch 2024–2026",
-    "Già Responsabile della Sezione di Neurochirurgia Funzionale SINch",
-    "Attività clinica su neurochirurgia funzionale, patologia spinale, tumori cerebrali, ipofisi, idrocefalo e patologie del dolore cranio-facciale",
-    "Produzione scientifica su DBS, Parkinson, epilessia, monitoraggio neurofisiologico, awake surgery e patologia ipofisaria"
+    "Direttore UOC Neurochirurgia — San Camillo Forlanini, Roma",
+    "Patologie spinali, cerebrali, funzionali e ipofisarie",
+    "Percorsi specialistici ospedalieri e ambulatoriali",
+    "Attività scientifica e societaria in ambito neurochirurgico"
   ],
   "profileText": [
     "Il Dott. Riccardo Antonio Ricciuti è neurochirurgo e Direttore della UOC di Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma.",
-    "La sua attività integra assistenza clinica, chirurgia ad alta complessità, ricerca e formazione. Il percorso scientifico è particolarmente orientato alla neurochirurgia funzionale, alla stimolazione cerebrale profonda, alla chirurgia dell’epilessia, alla patologia ipofisaria, alla neuro-oncologia, al monitoraggio neurofisiologico intraoperatorio e alla patologia spinale.",
-    "Ha conseguito l’Abilitazione Scientifica Nazionale a Professore di seconda fascia per il settore 06/E3 ed è attivo in ambito societario nazionale, con incarichi nella Società Italiana di Neurochirurgia."
+    "La sua attività clinica comprende la valutazione e il trattamento delle principali patologie della colonna vertebrale, delle patologie cerebrali e ipofisarie, dell’idrocefalo, del dolore cranio-facciale e dei disturbi neurologici trattabili con tecniche di neurochirurgia funzionale.",
+    "L’approccio è orientato all’inquadramento specialistico del paziente, alla correlazione tra sintomi ed esami neuroradiologici e alla definizione del percorso terapeutico più appropriato, anche in collaborazione con altre specialità quando necessario.",
+    "Accanto all’attività clinica svolge attività scientifica e formativa. Ha conseguito l’Abilitazione Scientifica Nazionale a Professore di II fascia nel settore 06/E3 ed è attivo nella Società Italiana di Neurochirurgia."
   ],
   "areas": [
     {
       "title": "Chirurgia spinale",
       "kicker": "Ernia, stenosi, spondilolistesi",
       "priority": true,
-      "summary": "Valutazione neurochirurgica delle patologie degenerative e compressive della colonna, tra le cause più frequenti di accesso ambulatoriale.",
+      "summary": "Valutazione neurochirurgica delle principali patologie degenerative e compressive della colonna vertebrale.",
       "details": [
-        "Ernia discale cervicale e lombare, stenosi del canale, spondilolistesi degenerativa, mielopatia cervicale, lombosciatalgia e cervicobrachialgia.",
+        "Ernia discale cervicale e lombare, stenosi del canale vertebrale, spondilolistesi degenerativa, mielopatia cervicale, lombosciatalgia e cervicobrachialgia.",
         "L’indicazione chirurgica viene valutata correlando sintomi, esame neurologico, imaging e risposta alle terapie conservative.",
-        "La sezione è volutamente in evidenza: la patologia spinale è un ambito clinico centrale per l’attività ambulatoriale."
+        "Il percorso viene definito sulla base del quadro clinico complessivo e degli eventuali segni di compressione radicolare o midollare."
       ],
       "tags": [
         "Ernia discale",
