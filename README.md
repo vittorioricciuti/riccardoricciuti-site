@@ -46,3 +46,7 @@ Lo script legge le opere pubbliche dal profilo ORCID, ordina le pubblicazioni pe
 - `data/news.json`: notizie, TV, articoli online
 - `scripts/update_orcid.py`: aggiornamento pubblicazioni
 - `.github/workflows/pages.yml`: pubblicazione automatica GitHub Pages
+
+
+## Nota v7
+Questa versione rende il caricamento dei dati più robusto: se una sezione opzionale non viene caricata, il resto del sito resta visibile.
