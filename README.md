@@ -1,65 +1,35 @@
-# Sito Riccardo Antonio Ricciuti — versione 6
+# Sito Dott. Riccardo Antonio Ricciuti
 
-Questa versione è pensata per GitHub Pages ed è completamente statica: non richiede server, database o abbonamenti.
+## Pubblicazione su GitHub Pages
 
-## Come caricarla su GitHub
+1. Carica nella root del repository tutti i file e le cartelle contenuti in questa cartella.
+2. Fai **Commit changes**.
+3. Vai su **Settings → Pages** e verifica che la sorgente sia **GitHub Actions**.
+4. Vai su **Actions** e apri l'ultimo workflow **Deploy GitHub Pages**.
+5. Controlla lo step **Update publications from ORCID**.
 
-1. Apri lo ZIP.
-2. Entra dentro la cartella `ricciuti-site`.
-3. Carica nel repository **il contenuto interno** della cartella, non la cartella stessa.
-4. Fai `Commit changes` su `main`.
-5. Vai su `Actions` e aspetta che il workflow `Deploy GitHub Pages` diventi verde.
-6. Vai su `Settings > Pages` e verifica che la Source sia `GitHub Actions`.
+Se l'aggiornamento ORCID funziona, nello step devi vedere una riga simile a:
 
-## Foto
+```text
+Updated data/publications.json with XX ORCID works
+```
 
-Il file da sostituire è:
+Se ORCID non viene letto, il workflow diventa rosso. Questo è voluto: evita che il sito venga pubblicato dando l'impressione che le pubblicazioni siano aggiornate quando non lo sono.
 
-`assets/portrait-placeholder.svg`
+## Controllo delle pubblicazioni
 
-Quando avrai una foto autorizzata, puoi caricarla come `assets/portrait.jpg` e cambiare in `index.html` la riga dell'immagine da:
+Dopo un workflow verde, apri:
 
-`assets/portrait-placeholder.svg`
+```text
+https://vittorioricciuti.github.io/riccardoricciuti-site/data/publications.json
+```
 
-a:
+Le pubblicazioni devono essere generate da ORCID e ordinate per anno decrescente.
 
-`assets/portrait.jpg`
+Il file tecnico:
 
-## Pubblicazioni automatiche
+```text
+data/publications.meta.json
+```
 
-Il workflow esegue a ogni deploy e ogni lunedì lo script:
-
-`scripts/update_orcid.py`
-
-La fonte principale è ORCID:
-
-`https://orcid.org/0000-0003-4970-2065`
-
-Lo script legge le opere pubbliche dal profilo ORCID, ordina le pubblicazioni per anno decrescente e genera il file usato dal sito durante il deploy. Se ORCID non risponde, il sito mantiene il file `data/publications.json` già presente e il deploy non si blocca.
-
-## File contenuti
-
-- `data/profile.json`: profilo, link, aree cliniche
-- `data/publications.json`: pubblicazioni iniziali
-- `data/congresses.json`: congressi e corsi
-- `data/booking.json`: contatti San Camillo e Progetto Salute
-- `data/news.json`: notizie, TV, articoli online
-- `scripts/update_orcid.py`: aggiornamento pubblicazioni
-- `.github/workflows/pages.yml`: pubblicazione automatica GitHub Pages
-
-
-## Nota v8
-Questa versione rende il caricamento dei dati più robusto: se una sezione opzionale non viene caricata, il resto del sito resta visibile.
-
-
-## Pubblicazioni e ORCID
-
-Le pubblicazioni vengono aggiornate dal profilo ORCID `0000-0003-4970-2065` durante il workflow GitHub Actions. Il workflow aggiorna `data/publications.json`, salva la modifica nel repository e poi pubblica il sito su GitHub Pages. Nel sito ogni pubblicazione può mostrare link a DOI, PubMed e ORCID quando disponibili.
-
-
-## Controllo ORCID
-Dopo il commit, apri Actions → Deploy GitHub Pages → Update publications from ORCID. Se leggi `Updated ... with X ORCID works`, le pubblicazioni sono state scaricate da ORCID. Se leggi `ORCID update skipped`, GitHub ha pubblicato il file statico già presente in `data/publications.json`.
-
-
-## Foto profilo
-La foto principale è `assets/riccardo-ricciuti.jpg`. Per sostituirla in futuro, usare lo stesso nome file oppure aggiornare il percorso in `index.html`.
+serve solo per verificare origine e numero dei lavori letti.
