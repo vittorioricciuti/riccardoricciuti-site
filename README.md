@@ -55,3 +55,11 @@ Questa versione rende il caricamento dei dati più robusto: se una sezione opzio
 ## Pubblicazioni e ORCID
 
 Le pubblicazioni vengono aggiornate dal profilo ORCID `0000-0003-4970-2065` durante il workflow GitHub Actions. Il workflow aggiorna `data/publications.json`, salva la modifica nel repository e poi pubblica il sito su GitHub Pages. Nel sito ogni pubblicazione può mostrare link a DOI, PubMed e ORCID quando disponibili.
+
+
+## Controllo ORCID
+Dopo il commit, apri Actions → Deploy GitHub Pages → Update publications from ORCID. Se leggi `Updated ... with X ORCID works`, le pubblicazioni sono state scaricate da ORCID. Se leggi `ORCID update skipped`, GitHub ha pubblicato il file statico già presente in `data/publications.json`.
+
+
+## Foto profilo
+La foto principale è `assets/riccardo-ricciuti.jpg`. Per sostituirla in futuro, usare lo stesso nome file oppure aggiornare il percorso in `index.html`.

@@ -24,7 +24,7 @@ function renderProfile(){
 }
 function renderAreas(){
   const grid = $('#areasGrid'); if(!grid) return;
-  grid.innerHTML = (state.profile.areas||[]).map((a,i)=>`<article class="area-card ${a.priority?'priority':''} reveal">
+  grid.innerHTML = (state.profile.areas||[]).map((a,i)=>`<article class="area-card reveal">
     <div class="area-head" role="button" tabindex="0" aria-expanded="false">
       <div><div class="kicker">${safeText(a.kicker)}</div><h3>${safeText(a.title)}</h3><p class="area-summary">${safeText(a.summary)}</p></div><div class="area-toggle">+</div>
     </div>
