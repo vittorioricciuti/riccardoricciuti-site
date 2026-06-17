@@ -61,7 +61,7 @@ function filteredPubs(){
 function renderPublications(){
   const list = $('#publicationList'); if(!list) return;
   const pubs = filteredPubs();
-  list.innerHTML = pubs.slice(0,state.shownPubs).map(p=>`<article class="pub-item reveal"><div class="pub-year">${safeText(p.year)}</div><div><div class="pub-title">${safeText(p.title)}</div><div class="pub-meta">${safeText(p.authors)}${p.authors?'<br>':''}${safeText(p.journal)}</div><div class="pub-links">${p.doiUrl?`<a target="_blank" rel="noopener" href="${p.doiUrl}">DOI</a>`:''}<a target="_blank" rel="noopener" href="${p.pubmedSearchUrl||('https://pubmed.ncbi.nlm.nih.gov/?term='+encodeURIComponent(safeText(p.title)))}">PubMed</a>${(p.tags||[]).slice(0,3).map(t=>`<span class="tag">${t}</span>`).join('')}</div></div></article>`).join('');
+  list.innerHTML = pubs.slice(0,state.shownPubs).map(p=>`<article class="pub-item reveal"><div class="pub-year">${safeText(p.year)}</div><div><div class="pub-title">${safeText(p.title)}</div><div class="pub-meta">${safeText(p.authors)}${p.authors?'<br>':''}${safeText(p.journal)}</div><div class="pub-links">${p.doiUrl?`<a target="_blank" rel="noopener" href="${p.doiUrl}">DOI</a>`:''}<a target="_blank" rel="noopener" href="${p.pubmedSearchUrl||('https://pubmed.ncbi.nlm.nih.gov/?term='+encodeURIComponent(safeText(p.title)))}">PubMed</a>${p.orcidUrl?`<a target="_blank" rel="noopener" href="${p.orcidUrl}">ORCID</a>`:''}${(p.tags||[]).slice(0,3).map(t=>`<span class="tag">${t}</span>`).join('')}</div></div></article>`).join('');
   const more = $('#showMorePublications'); if(more) more.style.display = state.shownPubs < pubs.length ? 'inline-flex' : 'none';
   observeReveals();
 }

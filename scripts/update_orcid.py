@@ -103,6 +103,7 @@ def main() -> int:
         doi = ids.get("doi", "")
         pmid = ids.get("pmid", "") or ids.get("pubmed", "")
         pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else "https://pubmed.ncbi.nlm.nih.gov/?term=" + urllib.parse.quote(title)
+        put_code = work.get("put-code")
         record = {
             "year": year,
             "title": title,
@@ -111,6 +112,8 @@ def main() -> int:
             "doi": doi,
             "doiUrl": f"https://doi.org/{doi}" if doi else "",
             "pubmedSearchUrl": pubmed_url,
+            "orcidUrl": f"https://orcid.org/{ORCID}/work/{put_code}" if put_code else f"https://orcid.org/{ORCID}",
+            "source": "ORCID",
             "tags": tags_for(" ".join([title, journal])),
             "_orcidIndex": index,
         }
