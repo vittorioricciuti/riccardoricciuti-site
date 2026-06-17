@@ -1,6 +1,16 @@
 {
-  "source": "static-fallback",
+  "source": "ORCID",
   "orcid": "0000-0003-4970-2065",
-  "works": 0,
-  "generated_by": "not-yet-run"
+  "works": 45,
+  "top_years": [
+    "2026",
+    "2025",
+    "2025",
+    "2025",
+    "2025",
+    "2025",
+    "2025",
+    "2025"
+  ],
+  "generated_by": "scripts/update_orcid.py"
 }

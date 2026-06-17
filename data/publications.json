@@ -1,335 +1,700 @@
 [
   {
+    "year": "2026",
+    "title": "Constrained Spherical Deconvolution White Matter Tractography in Neuro-Oncology and Deep Brain Stimulation: An Illustrative Case Series",
+    "authors": "",
+    "journal": "Brain Sciences",
+    "doi": "10.3390/brainsci16050501",
+    "doiUrl": "https://doi.org/10.3390/brainsci16050501",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Constrained%20Spherical%20Deconvolution%20White%20Matter%20Tractography%20in%20Neuro-Oncology%20and%20Deep%20Brain%20Stimulation%3A%20An%20Illustrative%20Case%20Series",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/213904862",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS"
+    ]
+  },
+  {
     "year": "2025",
     "title": "Body image appearance in Parkinson’s disease patients on device aided therapies",
-    "authors": "Proietti F, Pontani M, Pepe A, Magliozzi A, Toro S, Anzini G, Albergo G, Ricciuti R, Di Lazzaro V, Marano M",
+    "authors": "",
     "journal": "Neurological Sciences",
     "doi": "10.1007/s10072-024-07753-9",
-    "tags": [
-      "Parkinson"
-    ],
     "doiUrl": "https://doi.org/10.1007/s10072-024-07753-9",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Body+image+appearance+in+Parkinson%E2%80%99s+disease+patients+on+device+aided+therapies"
-  },
-  {
-    "year": "2025",
-    "title": "Subthalamic beta power and gait in Parkinson’s disease during unsupervised remote monitoring",
-    "authors": "Marano M, Tinkhauser G, Anzini G, Leogrande G, Ricciuti R, Paniccia M, Belli A, Pierleoni P, Di Lazzaro V, Raggiunto S",
-    "journal": "Parkinsonism & Related Disorders",
-    "doi": "10.1016/j.parkreldis.2025.107903",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Body%20image%20appearance%20in%20Parkinson%E2%80%99s%20disease%20patients%20on%20device%20aided%20therapies",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833949",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
-      "Parkinson",
-      "DBS"
-    ],
-    "doiUrl": "https://doi.org/10.1016/j.parkreldis.2025.107903",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Subthalamic+beta+power+and+gait+in+Parkinson%E2%80%99s+disease+during+unsupervised+remote+monitoring"
-  },
-  {
-    "year": "2025",
-    "title": "Long-term infective complications of deep brain stimulation in Parkinson’s disease: A 22-year follow-up",
-    "authors": "Ricciuti R, Ottaviani MM, Mancini F, Liverotti V, Marruzzo D, Marani M, Barbieri F, Paracino R, Pagano S, Di Lazzaro V, Dobran M",
-    "journal": "Clinical Parkinsonism & Related Disorders",
-    "doi": "",
-    "tags": [
-      "DBS",
       "Parkinson"
-    ],
-    "doiUrl": "",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Long-term+infective+complications+of+deep+brain+stimulation+in+Parkinson%E2%80%99s+disease:+A+22-year+follow-up"
+    ]
   },
   {
     "year": "2025",
-    "title": "Deep brain stimulation in Parkinson’s disease: accuracy and outcomes of frame-based, frameless and fiducial-less techniques",
-    "authors": "Ricciuti R, Ottaviani M, Mancini F, Marano M, Marruzzo D, Barbieri F, Paracino R, De Domenico P, Pagano S, Di Lazzaro V, Dobran M",
+    "title": "Clinical and neuroradiological red flags in differential diagnosis of pituitary metastases and PitNETs (adenomas): a surgeon’s experience and systematic literature review",
+    "authors": "",
+    "journal": "Neurologia I Neurochirurgia Polska",
+    "doi": "10.5603/pjnns.103406",
+    "doiUrl": "https://doi.org/10.5603/pjnns.103406",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Clinical%20and%20neuroradiological%20red%20flags%20in%20differential%20diagnosis%20of%20pituitary%20metastases%20and%20PitNETs%20%28adenomas%29%3A%20a%20surgeon%E2%80%99s%20experience%20and%20systematic%20literature%20review",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833945",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Pituitary",
+      "Tumors"
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Correction to: Setting benchmark for brain aneurysm treated endovascularly: a systematic review and meta-analysis (Neurosurgical Review, (2025), 48, 1, (411), 10.1007/s10143-025-03546-6)",
+    "authors": "",
+    "journal": "Neurosurgical Review",
+    "doi": "10.1007/s10143-025-03594-y",
+    "doiUrl": "https://doi.org/10.1007/s10143-025-03594-y",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Correction%20to%3A%20Setting%20benchmark%20for%20brain%20aneurysm%20treated%20endovascularly%3A%20a%20systematic%20review%20and%20meta-analysis%20%28Neurosurgical%20Review%2C%20%282025%29%2C%2048%2C%201%2C%20%28411%29%2C%2010.1007/s10143-025-03546-6%29",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833955",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Vascular"
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Deep brain stimulation in Parkinson’s disease: a comparison of accuracy and clinical outcomes of frame-based, frameless and frameless fiducial-less techniques",
+    "authors": "",
     "journal": "Neurological Sciences",
     "doi": "10.1007/s10072-025-08102-0",
+    "doiUrl": "https://doi.org/10.1007/s10072-025-08102-0",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep%20brain%20stimulation%20in%20Parkinson%E2%80%99s%20disease%3A%20a%20comparison%20of%20accuracy%20and%20clinical%20outcomes%20of%20frame-based%2C%20frameless%20and%20frameless%20fiducial-less%20techniques",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833944",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "DBS",
       "Parkinson"
-    ],
-    "doiUrl": "https://doi.org/10.1007/s10072-025-08102-0",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+in+Parkinson%E2%80%99s+disease:+accuracy+and+outcomes+of+frame-based,+frameless+and+fiducial-less+techniques"
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Long-term infective complications of deep brain stimulation in Parkinson's disease: A 22-year follow-up",
+    "authors": "",
+    "journal": "Clinical Parkinsonism and Related Disorders",
+    "doi": "10.1016/j.prdoa.2025.100335",
+    "doiUrl": "https://doi.org/10.1016/j.prdoa.2025.100335",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Long-term%20infective%20complications%20of%20deep%20brain%20stimulation%20in%20Parkinson%27s%20disease%3A%20A%2022-year%20follow-up",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833930",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ]
   },
   {
     "year": "2025",
     "title": "Setting benchmark for ischemic stroke treated endovascularly: a systematic review and meta-analysis",
-    "authors": "De Rubeis G, Fabiano S, Bertaccini L, Ricciuti R, Saba L, Pampana E",
+    "authors": "",
     "journal": "Neurosurgical Review",
-    "doi": "",
+    "doi": "10.1007/s10143-025-03546-6",
+    "doiUrl": "https://doi.org/10.1007/s10143-025-03546-6",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Setting%20benchmark%20for%20ischemic%20stroke%20treated%20endovascularly%3A%20a%20systematic%20review%20and%20meta-analysis",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833937",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
-      "Vascular",
-      "Review"
-    ],
-    "doiUrl": "",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Setting+benchmark+for+ischemic+stroke+treated+endovascularly:+a+systematic+review+and+meta-analysis"
+      "Vascular"
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Subthalamic beta power and gait in Parkinson's disease during unsupervised remote monitoring",
+    "authors": "",
+    "journal": "Parkinsonism and Related Disorders",
+    "doi": "10.1016/j.parkreldis.2025.107903",
+    "doiUrl": "https://doi.org/10.1016/j.parkreldis.2025.107903",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Subthalamic%20beta%20power%20and%20gait%20in%20Parkinson%27s%20disease%20during%20unsupervised%20remote%20monitoring",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833931",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson",
+      "Monitoring"
+    ]
   },
   {
     "year": "2025",
     "title": "Vagus Nerve Stimulation in Movement Disorders, from Principles to a Systematic Review of Evidence",
-    "authors": "Proietti F, Ottaviani MM, Burchi E, Vivacqua G, Anzini G, Ricciuti R, Capone F, Macefield VG, Di Lazzaro V, Marano M",
+    "authors": "",
     "journal": "Movement Disorders",
-    "doi": "",
+    "doi": "10.1002/mds.70044",
+    "doiUrl": "https://doi.org/10.1002/mds.70044",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Vagus%20Nerve%20Stimulation%20in%20Movement%20Disorders%2C%20from%20Principles%20to%20a%20Systematic%20Review%20of%20Evidence",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833939",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
-      "VNS",
-      "Parkinson",
-      "Review"
-    ],
-    "doiUrl": "",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Vagus+Nerve+Stimulation+in+Movement+Disorders,+from+Principles+to+a+Systematic+Review+of+Evidence"
-  },
-  {
-    "year": "2025",
-    "title": "Clinical and neuroradiological red flags in differential diagnosis of pituitary metastases and PitNETs",
-    "authors": "Ricciuti R, Paracino R, Mancini F, De Domenico P, Ricciuti V, Barbieri FR, Ottaviani MM, Pagano S, Marruzzo D",
-    "journal": "Neurologia i Neurochirurgia Polska",
-    "doi": "10.5603/pjnns.103406",
-    "tags": [
-      "Pituitary",
-      "Tumors"
-    ],
-    "doiUrl": "https://doi.org/10.5603/pjnns.103406",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Clinical+and+neuroradiological+red+flags+in+differential+diagnosis+of+pituitary+metastases+and+PitNETs"
+      "VNS"
+    ]
   },
   {
     "year": "2024",
-    "title": "The state of the art of intraoperative neurophysiological monitoring: An Italian neurosurgical survey",
-    "authors": "Ricciuti R, Mancini F, Guzzi G, Marruzzo D, Dario A, Puppa AD, Ricci A, Barbanera A, Talacchi A, Schwarz A, et al.",
-    "journal": "Brain and Spine",
-    "doi": "10.1016/j.bas.2024.102796",
+    "title": "An open-label pilot study of non-invasive cervical vagus nerve stimulation in essential tremor",
+    "authors": "",
+    "journal": "Brain Stimulation",
+    "doi": "10.1016/j.brs.2024.11.008",
+    "doiUrl": "https://doi.org/10.1016/j.brs.2024.11.008",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=An%20open-label%20pilot%20study%20of%20non-invasive%20cervical%20vagus%20nerve%20stimulation%20in%20essential%20tremor",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833960",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
-      "Monitoring",
-      "Survey"
-    ],
-    "doiUrl": "https://doi.org/10.1016/j.bas.2024.102796",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=The+state+of+the+art+of+intraoperative+neurophysiological+monitoring:+An+Italian+neurosurgical+survey"
-  },
-  {
-    "year": "2024",
-    "title": "Left Vagus Stimulation Modulates Contralateral Subthalamic β Power Improving the Gait in Parkinson’s Disease",
-    "authors": "Marano M, Anzini G, Saltarocchi L, Ricciuti R, Capone F, Tan H, Torrecillos F, Lanzone J, Di Lazzaro V",
-    "journal": "Movement Disorders",
-    "doi": "10.1002/mds.29690",
-    "tags": [
-      "VNS",
-      "Parkinson"
-    ],
-    "doiUrl": "https://doi.org/10.1002/mds.29690",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Left+Vagus+Stimulation+Modulates+Contralateral+Subthalamic+β+Power+Improving+the+Gait+in+Parkinson%E2%80%99s+Disease"
+      "Spine",
+      "VNS"
+    ]
   },
   {
     "year": "2024",
     "title": "Intraoperative Neurophysiological Monitoring in Neurosurgery",
-    "authors": "Guzzi G, Ricciuti R, Della Torre A, Lo Turco E, Lavano A, Longhini F, La Torre D",
+    "authors": "",
     "journal": "Journal of Clinical Medicine",
     "doi": "10.3390/jcm13102966",
+    "doiUrl": "https://doi.org/10.3390/jcm13102966",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Intraoperative%20Neurophysiological%20Monitoring%20in%20Neurosurgery",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833947",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "Monitoring"
-    ],
-    "doiUrl": "https://doi.org/10.3390/jcm13102966",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Intraoperative+Neurophysiological+Monitoring+in+Neurosurgery"
+    ]
+  },
+  {
+    "year": "2024",
+    "title": "Left Vagus Stimulation Modulates Contralateral Subthalamic β Power Improving the Gait in Parkinson's Disease",
+    "authors": "",
+    "journal": "Movement Disorders",
+    "doi": "10.1002/mds.29690",
+    "doiUrl": "https://doi.org/10.1002/mds.29690",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Left%20Vagus%20Stimulation%20Modulates%20Contralateral%20Subthalamic%20%CE%B2%20Power%20Improving%20the%20Gait%20in%20Parkinson%27s%20Disease",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833933",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson",
+      "VNS"
+    ]
   },
   {
     "year": "2024",
     "title": "Screw bubbling with air embolism, an unusual complication of a frameless deep brain stimulation",
-    "authors": "Marano M, Barbieri FR, Sucapane P, Pagano S, Marruzzo D, Di Lazzaro V, Ricciuti R",
+    "authors": "",
     "journal": "Journal of Neurosurgical Sciences",
     "doi": "10.23736/S0390-5616.24.06241-6",
+    "doiUrl": "https://doi.org/10.23736/S0390-5616.24.06241-6",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Screw%20bubbling%20with%20air%20embolism%2C%20an%20unusual%20complication%20of%20a%20frameless%20deep%20brain%20stimulation",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833952",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "DBS"
-    ],
-    "doiUrl": "https://doi.org/10.23736/S0390-5616.24.06241-6",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Screw+bubbling+with+air+embolism,+an+unusual+complication+of+a+frameless+deep+brain+stimulation"
+    ]
   },
   {
     "year": "2024",
-    "title": "Non-invasive cervical vagus nerve stimulation in essential tremor: an open-label pilot study",
-    "authors": "Marano M, Magee R, Blasi F, Anzini G, Capone F, Ricciuti R, Ottaviani MM, Di Lazzaro V",
-    "journal": "Brain Stimulation",
-    "doi": "10.1016/j.brs.2024.11.008",
+    "title": "The “state of the art” of intraoperative neurophysiological monitoring: An Italian neurosurgical survey",
+    "authors": "",
+    "journal": "Brain and Spine",
+    "doi": "10.1016/j.bas.2024.102796",
+    "doiUrl": "https://doi.org/10.1016/j.bas.2024.102796",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=The%20%E2%80%9Cstate%20of%20the%20art%E2%80%9D%20of%20intraoperative%20neurophysiological%20monitoring%3A%20An%20Italian%20neurosurgical%20survey",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833957",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
-      "VNS",
-      "Tremor"
-    ],
-    "doiUrl": "https://doi.org/10.1016/j.brs.2024.11.008",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-invasive+cervical+vagus+nerve+stimulation+in+essential+tremor:+an+open-label+pilot+study"
-  },
-  {
-    "year": "2023",
-    "title": "Eagle syndrome: An updated review",
-    "authors": "Pagano S, Ricciuti V, Mancini F, Barbieri FR, Chegai F, Marini A, Marruzzo D, Paracino R, Ricciuti R",
-    "journal": "Surgical Neurology International",
-    "doi": "10.25259/SNI_666_2023",
-    "tags": [
-      "Review"
-    ],
-    "doiUrl": "https://doi.org/10.25259/SNI_666_2023",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Eagle+syndrome:+An+updated+review"
-  },
-  {
-    "year": "2023",
-    "title": "Deep brain stimulation of the dentato-rubro-thalamic tract in Holmes tremor: a CSD-guided procedure",
-    "authors": "Pozzilli V, Marano M, Magliozzi A, Mallio CA, Marruzzo D, Barbieri FR, Di Lazzaro V, Ricciuti R",
-    "journal": "Neurological Sciences",
-    "doi": "10.1007/s10072-022-06514-w",
-    "tags": [
-      "DBS",
-      "Tremor"
-    ],
-    "doiUrl": "https://doi.org/10.1007/s10072-022-06514-w",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+of+the+dentato-rubro-thalamic+tract+in+Holmes+tremor:+a+CSD-guided+procedure"
-  },
-  {
-    "year": "2023",
-    "title": "Modified percutaneous biopsy of the spine: improvement of the technique",
-    "authors": "Marruzzo D, Mancini F, Ricciuti V, Barbieri FR, Preziosi R, Pagano S, Ricciuti R",
-    "journal": "European Spine Journal",
-    "doi": "10.1007/s00586-022-07384-8",
-    "tags": [
-      "Spine"
-    ],
-    "doiUrl": "https://doi.org/10.1007/s00586-022-07384-8",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Modified+percutaneous+biopsy+of+the+spine:+improvement+of+the+technique"
-  },
-  {
-    "year": "2023",
-    "title": "Deep Brain Stimulation of the Anterior Nucleus of the Thalamus in Drug-Resistant Epilepsy in the MORE Registry",
-    "authors": "Peltola J, Colon AJ, Pimentel J, Coenen VA, Gil-Nagel A, Ferreira AG, et al.",
-    "journal": "Neurology",
-    "doi": "10.1212/WNL.0000000000206887",
-    "tags": [
-      "DBS",
-      "Epilepsy"
-    ],
-    "doiUrl": "https://doi.org/10.1212/WNL.0000000000206887",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+Brain+Stimulation+of+the+Anterior+Nucleus+of+the+Thalamus+in+Drug-Resistant+Epilepsy+in+the+MORE+Registry"
+      "Spine",
+      "Monitoring"
+    ]
   },
   {
     "year": "2023",
     "title": "Awake craniotomy in an adolescent patient with an extraventricular neurocytoma",
-    "authors": "Ricciuti R, Mancini F, Ricciuti V, Paracino R",
+    "authors": "",
     "journal": "BMJ Case Reports",
     "doi": "10.1136/bcr-2023-256102",
-    "tags": [
-      "Awake surgery",
-      "Neuro-oncology"
-    ],
     "doiUrl": "https://doi.org/10.1136/bcr-2023-256102",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Awake+craniotomy+in+an+adolescent+patient+with+an+extraventricular+neurocytoma"
-  },
-  {
-    "year": "2022",
-    "title": "Non-invasive vagus nerve stimulation modulates subthalamic beta activity in Parkinson’s disease",
-    "authors": "Torrecillos F, Tan H, Brown P, Capone F, Ricciuti R, Di Lazzaro V, Marano M",
-    "journal": "Brain Stimulation",
-    "doi": "10.1016/j.brs.2022.11.006",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Awake%20craniotomy%20in%20an%20adolescent%20patient%20with%20an%20extraventricular%20neurocytoma",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833936",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
-      "VNS",
-      "Parkinson"
-    ],
-    "doiUrl": "https://doi.org/10.1016/j.brs.2022.11.006",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-invasive+vagus+nerve+stimulation+modulates+subthalamic+beta+activity+in+Parkinson%E2%80%99s+disease"
+      "Tumors",
+      "Awake"
+    ]
   },
   {
-    "year": "2022",
-    "title": "Deep brain stimulation for Parkinson’s disease in practice: survey by the Italian Neurosurgery Society",
-    "authors": "Mancini F, Guzzi G, Castrioto CF, Cavallo MA, Conti A, et al.",
-    "journal": "Journal of Neurosurgical Sciences",
-    "doi": "10.23736/S0390-5616.22.05751-4",
-    "tags": [
-      "SINch",
-      "DBS",
-      "Parkinson"
-    ],
-    "doiUrl": "https://doi.org/10.23736/S0390-5616.22.05751-4",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+for+Parkinson%E2%80%99s+disease+in+practice:+survey+by+the+Italian+Neurosurgery+Society"
-  },
-  {
-    "year": "2021",
-    "title": "Deep brain stimulation in drug-resistant epilepsy and poor functional status: outcomes based on different targets",
-    "authors": "Passamonti C, Mancini F, Cesaroni E, Bonifazi S, Ceravolo MG, Capecci M, Zamponi N, Scerrati M, Ricciuti RA",
-    "journal": "Clinical Neurology and Neurosurgery",
-    "doi": "10.1016/j.clineuro.2021.106827",
+    "year": "2023",
+    "title": "Deep Brain Stimulation of the Anterior Nucleus of the Thalamus in Drug-Resistant Epilepsy in the MORE Multicenter Patient Registry",
+    "authors": "",
+    "journal": "Neurology",
+    "doi": "10.1212/WNL.0000000000206887",
+    "doiUrl": "https://doi.org/10.1212/WNL.0000000000206887",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep%20Brain%20Stimulation%20of%20the%20Anterior%20Nucleus%20of%20the%20Thalamus%20in%20Drug-Resistant%20Epilepsy%20in%20the%20MORE%20Multicenter%20Patient%20Registry",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833950",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "DBS",
       "Epilepsy"
-    ],
-    "doiUrl": "https://doi.org/10.1016/j.clineuro.2021.106827",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+brain+stimulation+in+drug-resistant+epilepsy+and+poor+functional+status:+outcomes+based+on+different+targets"
+    ]
   },
   {
-    "year": "2020",
-    "title": "Tuning Frequencies across Leads with Interleaving Deep Brain Stimulation to Treat Asymmetric Tremor in Parkinson’s Disease",
-    "authors": "Marano M, Motolese F, Marruzzo D, Ricciuti R, Di Lazzaro V, Pilleri M",
-    "journal": "Canadian Journal of Neurological Sciences",
-    "doi": "10.1017/cjn.2020.64",
+    "year": "2023",
+    "title": "Deep brain stimulation of the dentato-rubro-thalamic tract in a case of Holmes tremor: a constrained spherical deconvolution (CSD)–guided procedure",
+    "authors": "",
+    "journal": "Neurological Sciences",
+    "doi": "10.1007/s10072-022-06514-w",
+    "doiUrl": "https://doi.org/10.1007/s10072-022-06514-w",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep%20brain%20stimulation%20of%20the%20dentato-rubro-thalamic%20tract%20in%20a%20case%20of%20Holmes%20tremor%3A%20a%20constrained%20spherical%20deconvolution%20%28CSD%29%E2%80%93guided%20procedure",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833958",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS"
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "Eagle syndrome: An updated review",
+    "authors": "",
+    "journal": "Surgical Neurology International",
+    "doi": "10.25259/SNI_666_2023",
+    "doiUrl": "https://doi.org/10.25259/SNI_666_2023",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Eagle%20syndrome%3A%20An%20updated%20review",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833941",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Neurosurgery"
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "Modified percutaneous biopsy of the spine: improvement of the technique",
+    "authors": "",
+    "journal": "European Spine Journal",
+    "doi": "10.1007/s00586-022-07384-8",
+    "doiUrl": "https://doi.org/10.1007/s00586-022-07384-8",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Modified%20percutaneous%20biopsy%20of%20the%20spine%3A%20improvement%20of%20the%20technique",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833927",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Spine"
+    ]
+  },
+  {
+    "year": "2022",
+    "title": "Deep brain stimulation for Parkinson's disease in practice: results of the survey by the Italian Neurosurgery Society",
+    "authors": "",
+    "journal": "Journal of Neurosurgical Sciences",
+    "doi": "10.23736/S0390-5616.22.05751-4",
+    "doiUrl": "https://doi.org/10.23736/S0390-5616.22.05751-4",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep%20brain%20stimulation%20for%20Parkinson%27s%20disease%20in%20practice%3A%20results%20of%20the%20survey%20by%20the%20Italian%20Neurosurgery%20Society",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833926",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ]
+  },
+  {
+    "year": "2022",
+    "title": "Non-invasive vagus nerve stimulation modulates subthalamic beta activity in Parkinson's disease",
+    "authors": "",
+    "journal": "Brain Stimulation",
+    "doi": "10.1016/j.brs.2022.11.006",
+    "doiUrl": "https://doi.org/10.1016/j.brs.2022.11.006",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-invasive%20vagus%20nerve%20stimulation%20modulates%20subthalamic%20beta%20activity%20in%20Parkinson%27s%20disease",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833943",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "DBS",
       "Parkinson",
-      "Tremor"
-    ],
-    "doiUrl": "https://doi.org/10.1017/cjn.2020.64",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Tuning+Frequencies+across+Leads+with+Interleaving+Deep+Brain+Stimulation+to+Treat+Asymmetric+Tremor+in+Parkinson%E2%80%99s+Disease"
+      "VNS"
+    ]
+  },
+  {
+    "year": "2021",
+    "title": "Deep brain stimulation in patients with long history of drug resistant epilepsy and poor functional status: Outcomes based on the different targets",
+    "authors": "",
+    "journal": "Clinical Neurology and Neurosurgery",
+    "doi": "10.1016/j.clineuro.2021.106827",
+    "doiUrl": "https://doi.org/10.1016/j.clineuro.2021.106827",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep%20brain%20stimulation%20in%20patients%20with%20long%20history%20of%20drug%20resistant%20epilepsy%20and%20poor%20functional%20status%3A%20Outcomes%20based%20on%20the%20different%20targets",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833929",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Epilepsy"
+    ]
   },
   {
     "year": "2020",
     "title": "Cognitive and linguistic outcomes after awake craniotomy in patients with high-grade gliomas",
-    "authors": "Bonifazi S, Passamonti C, Vecchioni S, Trignani R, Martorano PP, Durazzi V, Lattanzi S, Mancini F, Ricciuti RA",
+    "authors": "",
     "journal": "Clinical Neurology and Neurosurgery",
     "doi": "10.1016/j.clineuro.2020.106089",
-    "tags": [
-      "Awake surgery",
-      "Gliomas"
-    ],
     "doiUrl": "https://doi.org/10.1016/j.clineuro.2020.106089",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Cognitive+and+linguistic+outcomes+after+awake+craniotomy+in+patients+with+high-grade+gliomas"
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Cognitive%20and%20linguistic%20outcomes%20after%20awake%20craniotomy%20in%20patients%20with%20high-grade%20gliomas",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833953",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Tumors",
+      "Awake"
+    ]
+  },
+  {
+    "year": "2020",
+    "title": "Tuning Frequencies across Leads with Interleaving Deep Brain Stimulation to Treat Asymmetric Tremor in Parkinson's Disease",
+    "authors": "",
+    "journal": "Canadian Journal of Neurological Sciences",
+    "doi": "10.1017/cjn.2020.64",
+    "doiUrl": "https://doi.org/10.1017/cjn.2020.64",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Tuning%20Frequencies%20across%20Leads%20with%20Interleaving%20Deep%20Brain%20Stimulation%20to%20Treat%20Asymmetric%20Tremor%20in%20Parkinson%27s%20Disease",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833956",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ]
   },
   {
     "year": "2018",
-    "title": "Delayed Intracerebral Hemorrhage After Pseudoaneurysm of Middle Meningeal Artery Rupture",
-    "authors": "Montanari E, Polonara G, Montalti R, Vivarelli M, Ricciuti RA, Giorgetti R, Tagliabracci A",
+    "title": "Delayed Intracerebral Hemorrhage After Pseudoaneurysm of Middle Meningeal Artery Rupture: Case Report, Literature Review, and Forensic Issues",
+    "authors": "",
     "journal": "World Neurosurgery",
     "doi": "10.1016/j.wneu.2018.06.158",
+    "doiUrl": "https://doi.org/10.1016/j.wneu.2018.06.158",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Delayed%20Intracerebral%20Hemorrhage%20After%20Pseudoaneurysm%20of%20Middle%20Meningeal%20Artery%20Rupture%3A%20Case%20Report%2C%20Literature%20Review%2C%20and%20Forensic%20Issues",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833946",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "Vascular"
-    ],
-    "doiUrl": "https://doi.org/10.1016/j.wneu.2018.06.158",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Delayed+Intracerebral+Hemorrhage+After+Pseudoaneurysm+of+Middle+Meningeal+Artery+Rupture"
+    ]
   },
   {
     "year": "2017",
     "title": "Effects of somatostatin and its analogues on progenitor mesenchymal cells isolated from human pituitary adenomas",
-    "authors": "Orciani M, Caffarini M, Sorgentoni G, Ricciuti RA, Arnaldi G, Di Primio R",
+    "authors": "",
     "journal": "Pituitary",
     "doi": "10.1007/s11102-016-0770-x",
+    "doiUrl": "https://doi.org/10.1007/s11102-016-0770-x",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Effects%20of%20somatostatin%20and%20its%20analogues%20on%20progenitor%20mesenchymal%20cells%20isolated%20from%20human%20pituitary%20adenomas",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833932",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "Pituitary"
-    ],
-    "doiUrl": "https://doi.org/10.1007/s11102-016-0770-x",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Effects+of+somatostatin+and+its+analogues+on+progenitor+mesenchymal+cells+isolated+from+human+pituitary+adenomas"
+    ]
   },
   {
     "year": "2015",
     "title": "Extending technology-aided leisure and communication programs to persons with spinal cord injury and post-coma multiple disabilities",
-    "authors": "Lancioni GE, Singh NN, O’Reilly MF, Sigafoos J, Ricciuti R, Trignani R, Oliva D, et al.",
-    "journal": "Disability and Rehabilitation: Assistive Technology",
+    "authors": "",
+    "journal": "Disability and Rehabilitation Assistive Technology",
     "doi": "10.3109/17483107.2013.860635",
-    "tags": [
-      "Rehabilitation"
-    ],
     "doiUrl": "https://doi.org/10.3109/17483107.2013.860635",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Extending+technology-aided+leisure+and+communication+programs+to+persons+with+spinal+cord+injury+and+post-coma+multiple+disabilities"
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Extending%20technology-aided%20leisure%20and%20communication%20programs%20to%20persons%20with%20spinal%20cord%20injury%20and%20post-coma%20multiple%20disabilities",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833942",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Spine"
+    ]
   },
   {
     "year": "2015",
     "title": "Isolation and characterization of progenitor mesenchymal cells in human pituitary tumors",
-    "authors": "Orciani M, Davis S, Appolloni G, Lazzarini R, Mattioli-Belmonte M, Ricciuti RA, Boscaro M, Di Primio R, Arnaldi G",
+    "authors": "",
     "journal": "Cancer Gene Therapy",
     "doi": "10.1038/cgt.2014.63",
+    "doiUrl": "https://doi.org/10.1038/cgt.2014.63",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Isolation%20and%20characterization%20of%20progenitor%20mesenchymal%20cells%20in%20human%20pituitary%20tumors",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833934",
+    "sourceUrl": "",
+    "source": "ORCID",
     "tags": [
       "Pituitary",
       "Tumors"
-    ],
-    "doiUrl": "https://doi.org/10.1038/cgt.2014.63",
-    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Isolation+and+characterization+of+progenitor+mesenchymal+cells+in+human+pituitary+tumors"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "Chronic bilateral subthalamic stimulation after anterior callosotomy in drug-resistant epilepsy: Long-term clinical and functional outcome of two cases",
+    "authors": "",
+    "journal": "Epilepsy Research",
+    "doi": "10.1016/j.eplepsyres.2011.08.017",
+    "doiUrl": "https://doi.org/10.1016/j.eplepsyres.2011.08.017",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Chronic%20bilateral%20subthalamic%20stimulation%20after%20anterior%20callosotomy%20in%20drug-resistant%20epilepsy%3A%20Long-term%20clinical%20and%20functional%20outcome%20of%20two%20cases",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833940",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Epilepsy"
+    ]
+  },
+  {
+    "year": "2006",
+    "title": "Gait analysis in parkinsonian patients: A comparative study of bilateral subthalamic stimulation verses L-DOPA challenge",
+    "authors": "",
+    "journal": "Journal of Applied Biomaterials and Biomechanics",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Gait%20analysis%20in%20parkinsonian%20patients%3A%20A%20comparative%20study%20of%20bilateral%20subthalamic%20stimulation%20verses%20L-DOPA%20challenge",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833917",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ]
+  },
+  {
+    "year": "2006",
+    "title": "Vagus nerve stimulation: Clinical experience in drug-resistant pediatric epileptic patients",
+    "authors": "",
+    "journal": "Seizure",
+    "doi": "10.1016/j.seizure.2006.06.001",
+    "doiUrl": "https://doi.org/10.1016/j.seizure.2006.06.001",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Vagus%20nerve%20stimulation%3A%20Clinical%20experience%20in%20drug-resistant%20pediatric%20epileptic%20patients",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833935",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Epilepsy",
+      "VNS"
+    ]
+  },
+  {
+    "year": "2005",
+    "title": "Functional improvement after subthalamic stimulation in Parkinson's disease: A non-equivalent controlled study with 12-24 month follow up",
+    "authors": "",
+    "journal": "Journal of Neurology Neurosurgery and Psychiatry",
+    "doi": "10.1136/jnnp.2004.047001",
+    "doiUrl": "https://doi.org/10.1136/jnnp.2004.047001",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Functional%20improvement%20after%20subthalamic%20stimulation%20in%20Parkinson%27s%20disease%3A%20A%20non-equivalent%20controlled%20study%20with%2012-24%20month%20follow%20up",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833938",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Parkinson"
+    ]
+  },
+  {
+    "year": "2004",
+    "title": "Chronic bilateral subthalamic deep brain stimulation in a patient with homozygous deletion in the parkin gene",
+    "authors": "",
+    "journal": "Movement Disorders",
+    "doi": "10.1002/mds.20250",
+    "doiUrl": "https://doi.org/10.1002/mds.20250",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Chronic%20bilateral%20subthalamic%20deep%20brain%20stimulation%20in%20a%20patient%20with%20homozygous%20deletion%20in%20the%20parkin%20gene",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833959",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS"
+    ]
+  },
+  {
+    "year": "2004",
+    "title": "Deep brain stimulation of subthalamic nucleus (preliminary data on two drug-resistant epileptic cases),Stimolazione cerebrale profonda del nucleo subtalamico (dati preliminari in due casi di epilessia farmacoresistente)",
+    "authors": "",
+    "journal": "Bollettino Lega Italiana Contro L Epilessia",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Deep%20brain%20stimulation%20of%20subthalamic%20nucleus%20%28preliminary%20data%20on%20two%20drug-resistant%20epileptic%20cases%29%2CStimolazione%20cerebrale%20profonda%20del%20nucleo%20subtalamico%20%28dati%20preliminari%20in%20due%20casi%20di%20epilessia%20farmacoresistente%29",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833918",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS",
+      "Epilepsy"
+    ]
+  },
+  {
+    "year": "2004",
+    "title": "Erratum: Chronic bilateral subthalamic deep brain stimulation in a patient with homozygous deletion in the parkin gene (Movement Disorders (2004) vol. 19 (12) (1451-1453))",
+    "authors": "",
+    "journal": "Movement Disorders",
+    "doi": "10.1002/mds.20334",
+    "doiUrl": "https://doi.org/10.1002/mds.20334",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Erratum%3A%20Chronic%20bilateral%20subthalamic%20deep%20brain%20stimulation%20in%20a%20patient%20with%20homozygous%20deletion%20in%20the%20parkin%20gene%20%28Movement%20Disorders%20%282004%29%20vol.%2019%20%2812%29%20%281451-1453%29%29",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833928",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "DBS"
+    ]
+  },
+  {
+    "year": "2003",
+    "title": "Brain depth stimulation in Parkinson's disease. The Ancona experience,La stimolazione cerebrale profonda nella malattia di Parkinson: Esperienza anconetana",
+    "authors": "",
+    "journal": "Journal of Neurosurgical Sciences",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Brain%20depth%20stimulation%20in%20Parkinson%27s%20disease.%20The%20Ancona%20experience%2CLa%20stimolazione%20cerebrale%20profonda%20nella%20malattia%20di%20Parkinson%3A%20Esperienza%20anconetana",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833920",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Parkinson"
+    ]
+  },
+  {
+    "year": "2003",
+    "title": "Functional neurosurgery in movement disorders,La neurochirurgia funzionale nei disturbi del movimento",
+    "authors": "",
+    "journal": "Giornale Di Neuropsicofarmacologia",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Functional%20neurosurgery%20in%20movement%20disorders%2CLa%20neurochirurgia%20funzionale%20nei%20disturbi%20del%20movimento",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833919",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Neurosurgery"
+    ]
+  },
+  {
+    "year": "2002",
+    "title": "Gemella morbillorum deep brain abscess successfully treated with combined stereotactic, medical, and imaging approach",
+    "authors": "",
+    "journal": "European Journal of Radiology",
+    "doi": "10.1016/S0720-048X(02)00006-2",
+    "doiUrl": "https://doi.org/10.1016/S0720-048X(02)00006-2",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemella%20morbillorum%20deep%20brain%20abscess%20successfully%20treated%20with%20combined%20stereotactic%2C%20medical%2C%20and%20imaging%20approach",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833951",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Neurosurgery"
+    ]
+  },
+  {
+    "year": "2002",
+    "title": "Morphometry of E-PTA stained synapses at the periphery of pathological lesions",
+    "authors": "",
+    "journal": "Micron",
+    "doi": "10.1016/S0968-4328(01)00042-7",
+    "doiUrl": "https://doi.org/10.1016/S0968-4328(01)00042-7",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Morphometry%20of%20E-PTA%20stained%20synapses%20at%20the%20periphery%20of%20pathological%20lesions",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833948",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Neurosurgery"
+    ]
+  },
+  {
+    "year": "2001",
+    "title": "Multicentric glioma with unusual clinical presentation",
+    "authors": "",
+    "journal": "Child S Nervous System",
+    "doi": "10.1007/PL00013723",
+    "doiUrl": "https://doi.org/10.1007/PL00013723",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Multicentric%20glioma%20with%20unusual%20clinical%20presentation",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833954",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Tumors"
+    ]
+  },
+  {
+    "year": "2001",
+    "title": "Occipital cirsoid aneurysm in a patient with mediastinic lymphangioleiomyoma: Case report,Aneurisma cirsoide occipitale in paziente affetta da linfangioleiomioma mediastinico. Case report",
+    "authors": "",
+    "journal": "Rivista Di Neurobiologia",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Occipital%20cirsoid%20aneurysm%20in%20a%20patient%20with%20mediastinic%20lymphangioleiomyoma%3A%20Case%20report%2CAneurisma%20cirsoide%20occipitale%20in%20paziente%20affetta%20da%20linfangioleiomioma%20mediastinico.%20Case%20report",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833921",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Vascular"
+    ]
+  },
+  {
+    "year": "2001",
+    "title": "Orbital granulocytic sarcoma: Case report,Sarcoma granulocitico dell'orbita: Case report",
+    "authors": "",
+    "journal": "Rivista Di Neurobiologia",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Orbital%20granulocytic%20sarcoma%3A%20Case%20report%2CSarcoma%20granulocitico%20dell%27orbita%3A%20Case%20report",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833922",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Neurosurgery"
+    ]
+  },
+  {
+    "year": "2001",
+    "title": "Solitary infantile myofibromatosis of the skull: Case report,Miofibromatosi infantile solitaria della teca cranica: Case report",
+    "authors": "",
+    "journal": "Rivista Di Neurobiologia",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Solitary%20infantile%20myofibromatosis%20of%20the%20skull%3A%20Case%20report%2CMiofibromatosi%20infantile%20solitaria%20della%20teca%20cranica%3A%20Case%20report",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833923",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Neurosurgery"
+    ]
+  },
+  {
+    "year": "1998",
+    "title": "Effect of age on synaptic size in human brain tissue proximal to tumor masses",
+    "authors": "",
+    "journal": "Analytical and Quantitative Cytology and Histology",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Effect%20of%20age%20on%20synaptic%20size%20in%20human%20brain%20tissue%20proximal%20to%20tumor%20masses",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833924",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Tumors"
+    ]
+  },
+  {
+    "year": "1997",
+    "title": "Cardiac myxoma with glandular elements metastatic to the brain 12 years after the removal of the original tumor",
+    "authors": "",
+    "journal": "Clinical Neuropathology",
+    "doi": "",
+    "doiUrl": "",
+    "pubmedSearchUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Cardiac%20myxoma%20with%20glandular%20elements%20metastatic%20to%20the%20brain%2012%20years%20after%20the%20removal%20of%20the%20original%20tumor",
+    "orcidUrl": "https://orcid.org/0000-0003-4970-2065/work/196833925",
+    "sourceUrl": "",
+    "source": "ORCID",
+    "tags": [
+      "Tumors"
+    ]
   }
 ]
