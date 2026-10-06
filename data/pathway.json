@@ -1,0 +1,22 @@
+[
+  {
+    "step": "01",
+    "title": "Valutazione clinica",
+    "description": "Raccolta della storia clinica, analisi dei sintomi e valutazione neurologica mirata."
+  },
+  {
+    "step": "02",
+    "title": "Revisione degli esami",
+    "description": "Lettura di risonanza magnetica, TAC e documentazione clinica per correlare immagini e sintomi."
+  },
+  {
+    "step": "03",
+    "title": "Indicazione terapeutica",
+    "description": "Discussione delle opzioni disponibili, conservative o chirurgiche, in base al caso specifico."
+  },
+  {
+    "step": "04",
+    "title": "Percorso e follow-up",
+    "description": "Definizione del percorso successivo e degli eventuali controlli clinici e strumentali."
+  }
+]

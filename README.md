@@ -1,35 +1,113 @@
-# Sito Dott. Riccardo Antonio Ricciuti
+# Sito Dott. Riccardo Antonio Ricciuti — versione definitiva v13
+
+Questa versione è pensata per GitHub Pages e per una gestione più semplice nel tempo.
+
+## Cosa contiene
+
+- Homepage più compatta e orientata al paziente.
+- Foto principale in `assets/riccardo-ricciuti.jpg`.
+- Sezione **Aree cliniche** con schede espandibili.
+- Sezione **Percorso di cura**.
+- Sezione **Prenota una visita** con San Camillo e Progetto Salute.
+- Sezione **Domande frequenti**.
+- Sezione **Notizie e media**.
+- Sezione **Attività scientifica e congressuale**.
+- Sezione **Pubblicazioni** aggiornata da ORCID tramite GitHub Actions.
+- Predisposizione per aggiornare Notizie, Congressi, Video e Prenotazioni tramite Google Sheets.
 
 ## Pubblicazione su GitHub Pages
 
-1. Carica nella root del repository tutti i file e le cartelle contenuti in questa cartella.
-2. Fai **Commit changes**.
-3. Vai su **Settings → Pages** e verifica che la sorgente sia **GitHub Actions**.
-4. Vai su **Actions** e apri l'ultimo workflow **Deploy GitHub Pages**.
-5. Controlla lo step **Update publications from ORCID**.
+Caricare nella root del repository tutto il contenuto della cartella `ricciuti-site-v13`, non la cartella intera.
 
-Se l'aggiornamento ORCID funziona, nello step devi vedere una riga simile a:
+La root del repository deve contenere direttamente:
 
 ```text
-Updated data/publications.json with XX ORCID works
+.github
+assets
+data
+docs
+scripts
+app.js
+index.html
+styles.css
+README.md
 ```
 
-Se ORCID non viene letto, il workflow diventa rosso. Questo è voluto: evita che il sito venga pubblicato dando l'impressione che le pubblicazioni siano aggiornate quando non lo sono.
+Dopo il caricamento fare **Commit changes**. Poi andare su **Actions** e attendere il workflow verde.
 
-## Controllo delle pubblicazioni
+## Workflow ORCID
 
-Dopo un workflow verde, apri:
+Il file `.github/workflows/pages.yml` esegue lo script:
 
 ```text
-https://vittorioricciuti.github.io/riccardoricciuti-site/data/publications.json
+scripts/update_orcid.py
 ```
 
-Le pubblicazioni devono essere generate da ORCID e ordinate per anno decrescente.
-
-Il file tecnico:
+Lo script legge il profilo ORCID:
 
 ```text
+0000-0003-4970-2065
+```
+
+e aggiorna:
+
+```text
+data/publications.json
 data/publications.meta.json
 ```
 
-serve solo per verificare origine e numero dei lavori letti.
+Se ORCID non viene letto correttamente, il workflow deve diventare rosso: così non ci sono più aggiornamenti “falsamente verdi”.
+
+## Contenuti aggiornabili senza toccare codice
+
+I contenuti ordinari sono nei file JSON dentro `data/`:
+
+```text
+data/profile.json
+data/booking.json
+data/news.json
+data/congresses.json
+data/videos.json
+data/faqs.json
+data/pathway.json
+```
+
+La versione v13 è già predisposta per sostituire alcuni JSON con Google Sheets pubblici in CSV.
+
+Il file da configurare è:
+
+```text
+data/site-config.json
+```
+
+Per ora i campi Google Sheets sono vuoti, quindi il sito usa i dati locali.
+
+```json
+{
+  "googleSheets": {
+    "news": "",
+    "congresses": "",
+    "videos": "",
+    "booking": ""
+  }
+}
+```
+
+Quando saranno disponibili i fogli Google pubblicati in formato CSV, basterà inserire gli URL al posto delle stringhe vuote.
+
+## Template Google Sheets
+
+Nella cartella:
+
+```text
+docs/google-sheets-template/
+```
+
+ci sono esempi CSV con le colonne da usare per:
+
+- notizie;
+- congressi;
+- video;
+- prenotazioni.
+
+Spiegherò separatamente come creare e collegare Google Sheets.
