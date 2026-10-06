@@ -1,6 +1,6 @@
 const state = {
   config: {}, profile: null, publications: [], congresses: [], booking: [], news: [], videos: [], faqs: [], pathway: [],
-  shownPubs: 8, shownActivities: 7, filter: 'Tutte', query: ''
+  shownPubs: 5, shownActivities: 0, filter: 'Tutte', query: ''
 };
 const $ = (sel) => document.querySelector(sel);
 const $$ = (sel) => [...document.querySelectorAll(sel)];
@@ -71,7 +71,12 @@ function esc(v){ return safe(v).replace(/[&<>"]/g, m=>({'&':'&amp;','<':'&lt;','
 function renderProfile(){
   const p=state.profile || {};
   $('#profileText').innerHTML = (p.profileText||[]).map(t=>`<p>${esc(t)}</p>`).join('');
-  $('#highlights').innerHTML = (p.highlights||[]).slice(0,4).map(h=>`<span class="badge">${esc(h)}</span>`).join('');
+  const roles = $('#institutionalRoles');
+  if(roles){
+    roles.innerHTML = (p.credentials||[]).map(r=>`<article class="institutional-card"><span>${esc(r.label)}</span><strong>${esc(r.title)}</strong><p>${esc(r.text)}</p></article>`).join('');
+  }
+  const highlights = $('#highlights');
+  if(highlights){ highlights.innerHTML = (p.highlights||[]).slice(0,4).map(h=>`<span class="badge">${esc(h)}</span>`).join(''); }
   const links = [
     ['LinkedIn',p.linkedin],['PubMed',p.pubmed],['Scopus',p.scopus],['ORCID',p.orcid]
   ].filter(x=>x[1]);
@@ -119,7 +124,7 @@ function publicationTags(){ const set=new Set(['Tutte']); state.publications.for
 function renderPubFilters(){
   const box=$('#pubFilters'); if(!box) return;
   box.innerHTML = publicationTags().map(t=>`<button class="filter-btn ${t===state.filter?'active':''}" data-filter="${esc(t)}">${esc(t)}</button>`).join('');
-  $$('#pubFilters button').forEach(btn=>btn.addEventListener('click',()=>{ state.filter=btn.dataset.filter; state.shownPubs=8; renderPubFilters(); renderPublications(); }));
+  $$('#pubFilters button').forEach(btn=>btn.addEventListener('click',()=>{ state.filter=btn.dataset.filter; state.shownPubs=5; renderPubFilters(); renderPublications(); }));
 }
 function filteredPubs(){
   const q=state.query.toLowerCase().trim();
@@ -169,9 +174,8 @@ async function init(){
   ]);
   if(!profile){ document.body.insertAdjacentHTML('afterbegin','<div style="padding:12px;background:#fee;border-bottom:1px solid #faa">Errore nel caricamento del profilo. Controllare data/profile.json.</div>'); return; }
   state.profile=profile; state.publications=sortPublications(publications); state.congresses=congresses; state.booking=booking; state.news=news; state.videos=videos; state.faqs=faqs; state.pathway=pathway;
-  renderProfile(); renderAreas(); renderPathway(); renderFaqs(); renderBooking(); renderNews(); renderActivities(); renderPubMeta(meta); renderPubFilters(); renderPublications(); observeReveals();
-  $('#pubSearch')?.addEventListener('input',e=>{ state.query=e.target.value; state.shownPubs=8; renderPublications(); });
+  renderProfile(); renderAreas(); renderFaqs(); renderBooking(); renderNews(); renderPubMeta(meta); renderPubFilters(); renderPublications(); observeReveals();
+  $('#pubSearch')?.addEventListener('input',e=>{ state.query=e.target.value; state.shownPubs=5; renderPublications(); });
   $('#showMorePublications')?.addEventListener('click',()=>{ state.shownPubs += 50; renderPublications(); });
-  $('#showMoreActivities')?.addEventListener('click',()=>{ state.shownActivities += 50; renderActivities(); observeReveals(); });
 }
 init().catch(err=>{ console.error(err); document.body.insertAdjacentHTML('afterbegin','<div style="padding:12px;background:#fee;border-bottom:1px solid #faa">Errore imprevisto nel caricamento del sito.</div>'); });

@@ -26,16 +26,16 @@
     }
   ],
   "highlights": [
-    "Direttore UOC Neurochirurgia — San Camillo Forlanini, Roma",
-    "Patologie spinali, cerebrali, funzionali e ipofisarie",
-    "Percorsi specialistici ospedalieri e ambulatoriali",
-    "Attività scientifica e societaria in ambito neurochirurgico"
+    "Direttore UOC Neurochirurgia — A.O. San Camillo Forlanini, Roma",
+    "Consiglio Direttivo della Società Italiana di Neurochirurgia",
+    "Abilitazione Scientifica Nazionale a Professore di I fascia",
+    "Attività clinica e scientifica in neurochirurgia spinale, cerebrale e funzionale"
   ],
   "profileText": [
     "Il Dott. Riccardo Antonio Ricciuti è neurochirurgo e Direttore della UOC di Neurochirurgia dell’Azienda Ospedaliera San Camillo Forlanini di Roma.",
-    "La sua attività clinica comprende la valutazione e il trattamento delle principali patologie della colonna vertebrale, delle patologie cerebrali e ipofisarie, dell’idrocefalo, del dolore cranio-facciale e dei disturbi neurologici trattabili con tecniche di neurochirurgia funzionale.",
-    "L’approccio è orientato all’inquadramento specialistico del paziente, alla correlazione tra sintomi ed esami neuroradiologici e alla definizione del percorso terapeutico più appropriato, anche in collaborazione con altre specialità quando necessario.",
-    "Accanto all’attività clinica svolge attività scientifica e formativa. Ha conseguito l’Abilitazione Scientifica Nazionale a Professore di II fascia nel settore 06/E3 ed è attivo nella Società Italiana di Neurochirurgia."
+    "Si occupa della valutazione e del trattamento delle principali patologie della colonna vertebrale, delle patologie cerebrali e ipofisarie, dell’idrocefalo, del dolore cranio-facciale e dei disturbi neurologici trattabili con tecniche di neurochirurgia funzionale.",
+    "La sua attività integra pratica clinica ospedaliera, innovazione tecnologica e partecipazione alla vita scientifica della neurochirurgia italiana. È componente del Consiglio Direttivo della Società Italiana di Neurochirurgia e ha conseguito l’Abilitazione Scientifica Nazionale a Professore di I fascia.",
+    "L’inquadramento clinico è orientato alla correlazione tra sintomi, visita specialistica ed esami neuroradiologici, con definizione del percorso terapeutico più appropriato per ciascun caso."
   ],
   "areas": [
     {
@@ -160,6 +160,23 @@
         "Neuronavigazione",
         "Stereotassi"
       ]
+    }
+  ],
+  "credentials": [
+    {
+      "label": "Incarico ospedaliero",
+      "title": "Direttore UOC Neurochirurgia",
+      "text": "Azienda Ospedaliera San Camillo Forlanini, Roma"
+    },
+    {
+      "label": "Società scientifiche",
+      "title": "Consiglio Direttivo SINch",
+      "text": "Società Italiana di Neurochirurgia"
+    },
+    {
+      "label": "Profilo accademico",
+      "title": "Abilitazione Scientifica Nazionale",
+      "text": "Professore di I fascia"
     }
   ]
 }

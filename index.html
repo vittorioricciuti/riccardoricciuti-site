@@ -22,12 +22,11 @@
     </a>
     <button class="nav-toggle" aria-label="Apri menu" aria-expanded="false">☰</button>
     <nav class="site-nav" aria-label="Navigazione principale">
-      <a href="#aree">Aree cliniche</a>
-      <a href="#percorso">Percorso</a>
-      <a href="#prenota" class="nav-cta">Prenota</a>
       <a href="#profilo">Profilo</a>
+      <a href="#aree">Aree cliniche</a>
       <a href="#notizie">Notizie</a>
       <a href="#pubblicazioni">Pubblicazioni</a>
+      <a href="#prenota" class="nav-cta">Prenota una visita</a>
     </nav>
   </header>
 
@@ -37,14 +36,14 @@
         <div class="hero-copy reveal">
           <p class="eyebrow">Neurochirurgia specialistica a Roma</p>
           <h1>Dott. Riccardo Antonio Ricciuti</h1>
-          <p class="lead">Valutazione e trattamento delle patologie della colonna, cerebrali, funzionali e ipofisarie, con un approccio clinico orientato alla persona e alla definizione del percorso più appropriato.</p>
+          <p class="lead">Valutazione neurochirurgica per patologie della colonna vertebrale, cerebrali, funzionali e ipofisarie, in ambito ospedaliero e specialistico.</p>
           <div class="hero-actions">
             <a class="btn btn-primary" href="#prenota">Prenota una visita</a>
-            <a class="btn btn-secondary" href="#aree">Aree trattate</a>
+            <a class="btn btn-secondary" href="#profilo">Scopri il profilo</a>
           </div>
           <div class="hero-trust" aria-label="Informazioni principali">
             <span>Direttore UOC Neurochirurgia</span>
-            <span>A.O. San Camillo Forlanini</span>
+            <span>San Camillo Forlanini</span>
             <span>Roma</span>
           </div>
         </div>
@@ -61,35 +60,69 @@
       </div>
     </section>
 
-    <section class="section intro-band">
-      <div class="container intro-grid">
-        <div>
-          <span class="eyebrow">Orientamento alla visita</span>
-          <h2>Un sito pensato per aiutare il paziente a orientarsi</h2>
+    <section class="section" id="profilo">
+      <div class="container split profile-section">
+        <div class="section-heading reveal">
+          <span class="eyebrow">Profilo</span>
+          <h2>Esperienza ospedaliera, attività clinica e autorevolezza scientifica</h2>
+          <div class="external-links compact" id="profileLinks"></div>
         </div>
-        <p>Le informazioni sono organizzate per aree cliniche, percorso di cura e modalità di prenotazione, con un linguaggio chiaro e orientato alla valutazione specialistica.</p>
+        <div class="profile-text reveal">
+          <div id="profileText"></div>
+          <div class="institutional-grid" id="institutionalRoles"></div>
+        </div>
       </div>
     </section>
 
-    <section class="section" id="aree">
+    <section class="section muted" id="aree">
       <div class="container">
         <div class="section-heading centered reveal">
           <span class="eyebrow">Aree cliniche</span>
           <h2>Ambiti di valutazione e trattamento</h2>
-          <p>Schede sintetiche e consultabili per comprendere quando può essere utile una valutazione neurochirurgica.</p>
+          <p>Patologie spinali, cerebrali e funzionali valutate con approccio specialistico e attenzione alla correlazione tra sintomi, esame clinico e imaging.</p>
         </div>
         <div class="areas-grid" id="areasGrid"></div>
       </div>
     </section>
 
-    <section class="section muted" id="percorso">
+    <section class="section" id="faq">
       <div class="container split-large">
         <div class="section-heading reveal sticky-copy">
-          <span class="eyebrow">Percorso di cura</span>
-          <h2>Dalla valutazione iniziale alla definizione del trattamento</h2>
-          <p>Ogni indicazione viene valutata integrando sintomi, esame clinico, immagini neuroradiologiche e storia del paziente.</p>
+          <span class="eyebrow">Domande frequenti</span>
+          <h2>Prima della visita</h2>
+          <p>Indicazioni pratiche per preparare la valutazione neurochirurgica.</p>
         </div>
-        <div class="pathway" id="pathwayList"></div>
+        <div class="faq-list" id="faqList"></div>
+      </div>
+    </section>
+
+    <section class="section muted" id="notizie">
+      <div class="container">
+        <div class="section-heading centered reveal">
+          <span class="eyebrow">Notizie e media</span>
+          <h2>TV, stampa e contenuti online</h2>
+          <p>Una raccolta selezionata di articoli, interviste e contenuti divulgativi pubblicati online.</p>
+        </div>
+        <div class="news-grid" id="newsGrid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="pubblicazioni">
+      <div class="container">
+        <div class="section-heading reveal publications-heading">
+          <div>
+            <span class="eyebrow">Ricerca</span>
+            <h2>Pubblicazioni scientifiche</h2>
+            <p>Le pubblicazioni sono aggiornate tramite profilo ORCID pubblico. In pagina sono mostrate le più recenti, con possibilità di espandere l’archivio.</p>
+          </div>
+          <div class="pub-meta-card" id="pubMetaCard"></div>
+        </div>
+        <div class="publication-tools reveal">
+          <div class="filters" id="pubFilters"></div>
+          <input id="pubSearch" type="search" placeholder="Cerca titolo, rivista o tema…" aria-label="Cerca pubblicazioni">
+        </div>
+        <div class="publication-list" id="publicationList"></div>
+        <div class="center"><button class="btn btn-secondary" id="showMorePublications">Carica altre pubblicazioni</button></div>
       </div>
     </section>
 
@@ -103,88 +136,6 @@
           </div>
           <div class="booking-grid" id="bookingGrid"></div>
         </div>
-      </div>
-    </section>
-
-    <section class="section" id="faq">
-      <div class="container split-large">
-        <div class="section-heading reveal sticky-copy">
-          <span class="eyebrow">Domande frequenti</span>
-          <h2>Prima della visita</h2>
-          <p>Risposte brevi ad alcune domande ricorrenti, con linguaggio semplice e senza sostituire la valutazione medica individuale.</p>
-        </div>
-        <div class="faq-list" id="faqList"></div>
-      </div>
-    </section>
-
-    <section class="section muted" id="profilo">
-      <div class="container split">
-        <div class="section-heading reveal">
-          <span class="eyebrow">Profilo</span>
-          <h2>Esperienza clinica, attività ospedaliera e formazione scientifica</h2>
-        </div>
-        <div class="profile-text reveal">
-          <div id="profileText"></div>
-          <div class="badges" id="highlights"></div>
-          <div class="external-links compact" id="profileLinks"></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" id="notizie">
-      <div class="container">
-        <div class="section-heading centered reveal">
-          <span class="eyebrow">Notizie e media</span>
-          <h2>TV, stampa e contenuti online</h2>
-          <p>Una raccolta selezionata di articoli, interviste e contenuti divulgativi pubblicati online.</p>
-        </div>
-        <div class="news-grid" id="newsGrid"></div>
-      </div>
-    </section>
-
-    <section class="section muted" id="attivita">
-      <div class="container split-large">
-        <div class="section-heading reveal sticky-copy">
-          <span class="eyebrow">Attività scientifica</span>
-          <h2>Congressi, corsi e società scientifiche</h2>
-          <p>Selezione di attività congressuali, formative e societarie, consultabile senza appesantire il percorso informativo dedicato al paziente.</p>
-          <div class="role-stack">
-            <div class="role-card"><strong>SINch</strong><p>Consiglio Direttivo 2024–2026. Già Responsabile della Sezione di Neurochirurgia Funzionale.</p></div>
-            <div class="role-card light"><strong>Abilitazione Scientifica Nazionale</strong><p>Abilitato a Professore di II fascia nel settore 06/E3.</p></div>
-          </div>
-        </div>
-        <div>
-          <div class="timeline" id="timeline"></div>
-          <button class="btn btn-secondary" id="showMoreActivities">Mostra altre attività</button>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" id="pubblicazioni">
-      <div class="container">
-        <div class="section-heading reveal publications-heading">
-          <div>
-            <span class="eyebrow">Ricerca</span>
-            <h2>Pubblicazioni scientifiche</h2>
-            <p>Archivio aggiornato tramite profilo ORCID pubblico, con collegamenti a DOI e PubMed quando disponibili.</p>
-          </div>
-          <div class="pub-meta-card" id="pubMetaCard"></div>
-        </div>
-        <div class="publication-tools reveal">
-          <div class="filters" id="pubFilters"></div>
-          <input id="pubSearch" type="search" placeholder="Cerca titolo, rivista o tema…" aria-label="Cerca pubblicazioni">
-        </div>
-        <div class="publication-list" id="publicationList"></div>
-        <div class="center"><button class="btn btn-secondary" id="showMorePublications">Mostra tutte le pubblicazioni</button></div>
-      </div>
-    </section>
-
-    <section class="section final-cta">
-      <div class="container final-card reveal">
-        <span class="eyebrow">Contatti</span>
-        <h2>Valutazione neurochirurgica specialistica</h2>
-        <p>Per informazioni su percorsi, disponibilità e modalità di prenotazione è possibile rivolgersi ai canali indicati nella sezione prenotazioni.</p>
-        <a class="btn btn-primary" href="#prenota">Vai ai contatti</a>
       </div>
     </section>
   </main>

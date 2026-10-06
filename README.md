@@ -1,4 +1,4 @@
-# Sito Dott. Riccardo Antonio Ricciuti — versione definitiva v13
+# Sito Dott. Riccardo Antonio Ricciuti — versione definitiva v14
 
 Questa versione è pensata per GitHub Pages e per una gestione più semplice nel tempo.
 
@@ -17,7 +17,7 @@ Questa versione è pensata per GitHub Pages e per una gestione più semplice nel
 
 ## Pubblicazione su GitHub Pages
 
-Caricare nella root del repository tutto il contenuto della cartella `ricciuti-site-v13`, non la cartella intera.
+Caricare nella root del repository tutto il contenuto della cartella `ricciuti-site-v14`, non la cartella intera.
 
 La root del repository deve contenere direttamente:
 
@@ -72,7 +72,7 @@ data/faqs.json
 data/pathway.json
 ```
 
-La versione v13 è già predisposta per sostituire alcuni JSON con Google Sheets pubblici in CSV.
+La versione v14 è già predisposta per sostituire alcuni JSON con Google Sheets pubblici in CSV.
 
 Il file da configurare è:
 
